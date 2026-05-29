@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "त्वरित नोट्स - पृष्ठों पर स्टिकी नोट्स"
+  },
+  "appDesc": {
+    "message": "किसी भी वेबपेज पर स्टिकी नोट्स बनाएं, स्थानांतरित करें और बनाए रखें। नोट प्रति URL सहेजे जाते हैं और स्वचालित रूप से पुनः प्रकट होते हैं।"
+  },
+  "appTitle": {
+    "message": "त्वरित नोट्स"
+  },
+  "notesOnThisPage": {
+    "message": "इस पृष्ठ पर नोट्स"
+  },
+  "newStickyNote": {
+    "message": "नया स्टिकी नोट"
+  },
+  "showNotes": {
+    "message": "नोद्स दिखाएं"
+  },
+  "toggleAllNotes": {
+    "message": "इस पृष्ठ पर सभी नोट्स टॉगल करें"
+  },
+  "quickColorForNext": {
+    "message": "अगले नोट के लिए त्वरित रंग"
+  },
+  "colorYellow": {
+    "message": "पीला"
+  },
+  "colorBlue": {
+    "message": "नीला"
+  },
+  "colorGreen": {
+    "message": "हरा"
+  },
+  "colorPink": {
+    "message": "गुलाबी"
+  },
+  "colorPurple": {
+    "message": "बैंगनी"
+  },
+  "footerText": {
+    "message": "नोट्स प्रति पृष्ठ यूआरएल सहेजे जाते हैं"
+  },
+  "errorRestricted": {
+    "message": "इस पेज तक नहीं पहुंच सकते. त्वरित नोट्स केवल नियमित वेब पेजों (जैसे http://, https://) पर काम करता है।"
+  },
+  "notePlaceholder": {
+    "message": "अपना नोट यहां टाइप करें..."
+  },
+  "stickyNoteAriaLabel": {
+    "message": "चिपचिपा नोट"
+  },
+  "noteTextAriaLabel": {
+    "message": "नोट पाठ"
+  },
+  "dragToMoveTitle": {
+    "message": "स्थानांतरित करने के लिए खींचें"
+  },
+  "deleteNoteTitle": {
+    "message": "नोट हटाएँ"
+  },
+  "resizeNoteTitle": {
+    "message": "नोट का आकार बदलें"
+  }
+}

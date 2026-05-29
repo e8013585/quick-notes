@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Raske notater — Klistrelapper på sider"
+  },
+  "appDesc": {
+    "message": "Lag, flytt og bevar klistrelapper på hvilken som helst nettside. Notater lagres per URL og vises automatisk igjen."
+  },
+  "appTitle": {
+    "message": "Raske notater"
+  },
+  "notesOnThisPage": {
+    "message": "Merknader på denne siden"
+  },
+  "newStickyNote": {
+    "message": "Ny klistrelapp"
+  },
+  "showNotes": {
+    "message": "Vis notater"
+  },
+  "toggleAllNotes": {
+    "message": "Slå alle notater på denne siden"
+  },
+  "quickColorForNext": {
+    "message": "Rask farge for neste notat"
+  },
+  "colorYellow": {
+    "message": "Gul"
+  },
+  "colorBlue": {
+    "message": "Blå"
+  },
+  "colorGreen": {
+    "message": "Grønn"
+  },
+  "colorPink": {
+    "message": "Rosa"
+  },
+  "colorPurple": {
+    "message": "Lilla"
+  },
+  "footerText": {
+    "message": "Notater lagres per side-URL"
+  },
+  "errorRestricted": {
+    "message": "Får ikke tilgang til denne siden. Quick Notes fungerer bare på vanlige nettsider (f.eks. http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Skriv inn notatet ditt her..."
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Klistrelapp"
+  },
+  "noteTextAriaLabel": {
+    "message": "Merk tekst"
+  },
+  "dragToMoveTitle": {
+    "message": "Dra for å flytte"
+  },
+  "deleteNoteTitle": {
+    "message": "Slett notat"
+  },
+  "resizeNoteTitle": {
+    "message": "Endre størrelse på notat"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Hurtige noter — Sticky Notes på Pages"
+  },
+  "appDesc": {
+    "message": "Opret, flyt og bevar sticky notes på enhver webside. Noter gemmes pr. URL og vises automatisk igen."
+  },
+  "appTitle": {
+    "message": "Hurtige noter"
+  },
+  "notesOnThisPage": {
+    "message": "Bemærkninger på denne side"
+  },
+  "newStickyNote": {
+    "message": "Ny Sticky Note"
+  },
+  "showNotes": {
+    "message": "Vis noter"
+  },
+  "toggleAllNotes": {
+    "message": "Skift alle noter på denne side"
+  },
+  "quickColorForNext": {
+    "message": "Hurtig farve til næste note"
+  },
+  "colorYellow": {
+    "message": "Gul"
+  },
+  "colorBlue": {
+    "message": "Blå"
+  },
+  "colorGreen": {
+    "message": "Grøn"
+  },
+  "colorPink": {
+    "message": "Lyserød"
+  },
+  "colorPurple": {
+    "message": "Lilla"
+  },
+  "footerText": {
+    "message": "Noter gemmes pr. side-URL"
+  },
+  "errorRestricted": {
+    "message": "Kan ikke få adgang til denne side. Quick Notes virker kun på almindelige websider (f.eks. http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Skriv din note her..."
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Sticky note"
+  },
+  "noteTextAriaLabel": {
+    "message": "Bemærk tekst"
+  },
+  "dragToMoveTitle": {
+    "message": "Træk for at flytte"
+  },
+  "deleteNoteTitle": {
+    "message": "Slet note"
+  },
+  "resizeNoteTitle": {
+    "message": "Ændr størrelse på note"
+  }
+}

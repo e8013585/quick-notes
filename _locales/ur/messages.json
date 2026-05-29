@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "فوری نوٹس - صفحات پر چسپاں نوٹس"
+  },
+  "appDesc": {
+    "message": "کسی بھی ویب پیج پر چسپاں نوٹ بنائیں، منتقل کریں اور برقرار رکھیں۔ نوٹس فی یو آر ایل محفوظ کیے جاتے ہیں اور خود بخود دوبارہ ظاہر ہوتے ہیں۔"
+  },
+  "appTitle": {
+    "message": "فوری نوٹس"
+  },
+  "notesOnThisPage": {
+    "message": "اس صفحے پر نوٹس"
+  },
+  "newStickyNote": {
+    "message": "نیا سٹکی نوٹ"
+  },
+  "showNotes": {
+    "message": "نوٹس دکھائیں۔"
+  },
+  "toggleAllNotes": {
+    "message": "اس صفحہ پر تمام نوٹس ٹوگل کریں۔"
+  },
+  "quickColorForNext": {
+    "message": "اگلے نوٹ کے لیے فوری رنگ"
+  },
+  "colorYellow": {
+    "message": "پیلا"
+  },
+  "colorBlue": {
+    "message": "نیلا"
+  },
+  "colorGreen": {
+    "message": "سبز"
+  },
+  "colorPink": {
+    "message": "گلابی"
+  },
+  "colorPurple": {
+    "message": "جامنی"
+  },
+  "footerText": {
+    "message": "نوٹس فی صفحہ یو آر ایل محفوظ کیے جاتے ہیں۔"
+  },
+  "errorRestricted": {
+    "message": "اس صفحہ تک رسائی حاصل نہیں کر سکتے۔ Quick Notes صرف باقاعدہ ویب صفحات پر کام کرتا ہے (جیسے http://, https://)۔"
+  },
+  "notePlaceholder": {
+    "message": "اپنا نوٹ یہاں ٹائپ کریں…"
+  },
+  "stickyNoteAriaLabel": {
+    "message": "چسپاں نوٹ"
+  },
+  "noteTextAriaLabel": {
+    "message": "متن نوٹ کریں۔"
+  },
+  "dragToMoveTitle": {
+    "message": "منتقل کرنے کے لیے گھسیٹیں۔"
+  },
+  "deleteNoteTitle": {
+    "message": "نوٹ حذف کریں۔"
+  },
+  "resizeNoteTitle": {
+    "message": "نوٹ کا سائز تبدیل کریں۔"
+  }
+}

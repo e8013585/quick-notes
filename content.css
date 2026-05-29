@@ -1,0 +1,316 @@
+/* ═══════════════════════════════════════════════════════════════
+   Quick Notes — Content Styles
+   All selectors are namespaced to avoid conflicts with host pages.
+═══════════════════════════════════════════════════════════════ */
+
+/* ─── Note Wrapper ───────────────────────────────────────────── */
+.qn-note {
+  position: fixed;
+  z-index: 2147483640;
+  min-width: 180px;
+  min-height: 120px;
+  width: 240px;
+  height: 200px;
+  border-radius: 4px 4px 4px 4px;
+  display: flex;
+  flex-direction: column;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+               Oxygen, Ubuntu, 'Helvetica Neue', sans-serif;
+  font-size: 13px;
+  line-height: 1.5;
+  box-shadow:
+    0 4px 6px rgba(0,0,0,0.08),
+    0 8px 24px rgba(0,0,0,0.12),
+    0 1px 2px rgba(0,0,0,0.06);
+  overflow: hidden;
+  transition:
+    opacity 200ms cubic-bezier(0.4, 0, 0.2, 1),
+    transform 200ms cubic-bezier(0.4, 0, 0.2, 1),
+    box-shadow 150ms ease;
+  user-select: none;
+  will-change: transform, opacity;
+
+  /* Subtle paper curl effect on bottom-right via box-shadow */
+  filter: drop-shadow(2px 4px 6px rgba(0,0,0,0.15));
+}
+
+.qn-note:hover {
+  box-shadow:
+    0 6px 12px rgba(0,0,0,0.12),
+    0 12px 32px rgba(0,0,0,0.16),
+    0 2px 4px rgba(0,0,0,0.08);
+  filter: drop-shadow(3px 6px 10px rgba(0,0,0,0.18));
+}
+
+/* ─── Hidden / Visible states ────────────────────────────────── */
+.qn-note.qn-hidden {
+  opacity: 0;
+  transform: scale(0.95) translateY(-4px);
+  pointer-events: none;
+}
+
+.qn-note.qn-visible {
+  opacity: 1;
+  transform: scale(1) translateY(0);
+  pointer-events: all;
+}
+
+/* ─── While Dragging ─────────────────────────────────────────── */
+.qn-note.qn-dragging {
+  box-shadow:
+    0 16px 40px rgba(0,0,0,0.2),
+    0 4px 12px rgba(0,0,0,0.15);
+  filter: drop-shadow(4px 8px 16px rgba(0,0,0,0.22));
+  transition: box-shadow 100ms ease, filter 100ms ease;
+  cursor: grabbing !important;
+}
+
+/* ─── Color Themes ───────────────────────────────────────────── */
+/* Yellow */
+.qn-color-yellow {
+  background: #FFFDE7;
+  --qn-header-bg: #F9D84A;
+  --qn-header-border: #ECC800;
+  --qn-swatch-active-border: #B89600;
+  --qn-text-color: #3D3000;
+  --qn-placeholder-color: #A89030;
+  --qn-line-color: rgba(200,168,0,0.2);
+  --qn-resize-color: rgba(200,168,0,0.5);
+}
+
+/* Blue */
+.qn-color-blue {
+  background: #E3F4FB;
+  --qn-header-bg: #7EC8E3;
+  --qn-header-border: #5AAECB;
+  --qn-swatch-active-border: #2E7EA0;
+  --qn-text-color: #0D3D52;
+  --qn-placeholder-color: #4A90A8;
+  --qn-line-color: rgba(90,174,203,0.2);
+  --qn-resize-color: rgba(90,174,203,0.5);
+}
+
+/* Green */
+.qn-color-green {
+  background: #F0FAF0;
+  --qn-header-bg: #A8D8A8;
+  --qn-header-border: #7CB87C;
+  --qn-swatch-active-border: #3A7A3A;
+  --qn-text-color: #1A3D1A;
+  --qn-placeholder-color: #4A8A4A;
+  --qn-line-color: rgba(124,184,124,0.2);
+  --qn-resize-color: rgba(124,184,124,0.5);
+}
+
+/* Pink */
+.qn-color-pink {
+  background: #FFF0F5;
+  --qn-header-bg: #F4A7B9;
+  --qn-header-border: #E0708E;
+  --qn-swatch-active-border: #A0305A;
+  --qn-text-color: #4D0A25;
+  --qn-placeholder-color: #B05070;
+  --qn-line-color: rgba(224,112,142,0.2);
+  --qn-resize-color: rgba(224,112,142,0.5);
+}
+
+/* Purple */
+.qn-color-purple {
+  background: #F5F0FF;
+  --qn-header-bg: #C9B1E8;
+  --qn-header-border: #A882D4;
+  --qn-swatch-active-border: #5E3A9E;
+  --qn-text-color: #260D50;
+  --qn-placeholder-color: #7A50A8;
+  --qn-line-color: rgba(168,130,212,0.2);
+  --qn-resize-color: rgba(168,130,212,0.5);
+}
+
+/* ─── Header / Drag Bar ──────────────────────────────────────── */
+.qn-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 6px 0 8px;
+  height: 30px;
+  min-height: 30px;
+  background: var(--qn-header-bg);
+  border-bottom: 1px solid var(--qn-header-border);
+  cursor: grab;
+  flex-shrink: 0;
+  border-radius: 4px 4px 0 0;
+}
+
+.qn-header:active {
+  cursor: grabbing;
+}
+
+/* ─── Color Swatches in Header ───────────────────────────────── */
+.qn-color-swatches {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.qn-swatch {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  border: 2px solid transparent;
+  cursor: pointer;
+  transition: transform 80ms ease, border-color 80ms ease;
+  flex-shrink: 0;
+  outline: none;
+}
+
+.qn-swatch:hover {
+  transform: scale(1.25);
+}
+
+.qn-swatch.qn-swatch-active {
+  border-color: var(--qn-swatch-active-border);
+  transform: scale(1.2);
+}
+
+/* ─── Swatch Colors ──────────────────────────────────────────── */
+.qn-swatch-yellow { background: #F9D84A; }
+.qn-swatch-blue   { background: #7EC8E3; }
+.qn-swatch-green  { background: #A8D8A8; }
+.qn-swatch-pink   { background: #F4A7B9; }
+.qn-swatch-purple { background: #C9B1E8; }
+
+/* ─── Delete Button ──────────────────────────────────────────── */
+.qn-delete-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: none;
+  background: transparent;
+  color: var(--qn-text-color);
+  cursor: pointer;
+  opacity: 0.5;
+  transition: opacity 120ms ease, background 120ms ease, transform 80ms ease;
+  font-size: 14px;
+  line-height: 1;
+  flex-shrink: 0;
+  outline: none;
+  padding: 0;
+}
+
+.qn-delete-btn:hover {
+  opacity: 1;
+  background: rgba(0,0,0,0.12);
+  transform: scale(1.1);
+}
+
+.qn-delete-btn:active {
+  transform: scale(0.92);
+}
+
+/* ─── Note Body / Text Area ──────────────────────────────────── */
+.qn-body {
+  flex: 1;
+  overflow: auto;
+  padding: 8px 10px 10px;
+  color: var(--qn-text-color);
+  caret-color: var(--qn-text-color);
+  cursor: text;
+  outline: none;
+  white-space: pre-wrap;
+  word-break: break-word;
+  line-height: 1.6;
+  font-size: 12.5px;
+
+  /* Lined paper effect */
+  background-image: repeating-linear-gradient(
+    transparent,
+    transparent 23px,
+    var(--qn-line-color) 23px,
+    var(--qn-line-color) 24px
+  );
+  background-attachment: local;
+
+  /* Scrollbar styling */
+  scrollbar-width: thin;
+  scrollbar-color: var(--qn-header-bg) transparent;
+}
+
+.qn-body::-webkit-scrollbar {
+  width: 4px;
+}
+
+.qn-body::-webkit-scrollbar-thumb {
+  background: var(--qn-header-bg);
+  border-radius: 2px;
+}
+
+.qn-body::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.qn-body:empty::before {
+  content: attr(data-placeholder);
+  color: var(--qn-placeholder-color);
+  opacity: 0.7;
+  pointer-events: none;
+}
+
+/* ─── Resize Handle ──────────────────────────────────────────── */
+.qn-resize-handle {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 18px;
+  height: 18px;
+  cursor: nwse-resize;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: 3px;
+  z-index: 10;
+  opacity: 0.5;
+  transition: opacity 120ms ease;
+}
+
+.qn-note:hover .qn-resize-handle {
+  opacity: 1;
+}
+
+.qn-resize-handle svg {
+  pointer-events: none;
+}
+
+/* ─── Note appear animation ──────────────────────────────────── */
+@keyframes qn-appear {
+  from {
+    opacity: 0;
+    transform: scale(0.88) translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+.qn-note-entering {
+  animation: qn-appear 200ms cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+}
+
+@keyframes qn-disappear {
+  from {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+  to {
+    opacity: 0;
+    transform: scale(0.88) translateY(8px);
+  }
+}
+
+.qn-note-leaving {
+  animation: qn-disappear 160ms ease-in forwards;
+  pointer-events: none;
+}

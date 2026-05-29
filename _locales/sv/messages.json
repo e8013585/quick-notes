@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Snabbanteckningar — Sticky Notes on Pages"
+  },
+  "appDesc": {
+    "message": "Skapa, flytta och bevara klisterlappar på vilken webbsida som helst. Anteckningar sparas per URL och visas automatiskt igen."
+  },
+  "appTitle": {
+    "message": "Snabba anteckningar"
+  },
+  "notesOnThisPage": {
+    "message": "Anteckningar på denna sida"
+  },
+  "newStickyNote": {
+    "message": "Ny klisterlapp"
+  },
+  "showNotes": {
+    "message": "Visa anteckningar"
+  },
+  "toggleAllNotes": {
+    "message": "Växla alla anteckningar på den här sidan"
+  },
+  "quickColorForNext": {
+    "message": "Snabb färg för nästa anteckning"
+  },
+  "colorYellow": {
+    "message": "Gul"
+  },
+  "colorBlue": {
+    "message": "Blå"
+  },
+  "colorGreen": {
+    "message": "Grön"
+  },
+  "colorPink": {
+    "message": "Rosa"
+  },
+  "colorPurple": {
+    "message": "Purpur"
+  },
+  "footerText": {
+    "message": "Anteckningar sparas per sida URL"
+  },
+  "errorRestricted": {
+    "message": "Kan inte komma åt den här sidan. Quick Notes fungerar bara på vanliga webbsidor (t.ex. http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Skriv din anteckning här..."
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Klisterlapp"
+  },
+  "noteTextAriaLabel": {
+    "message": "Notera text"
+  },
+  "dragToMoveTitle": {
+    "message": "Dra för att flytta"
+  },
+  "deleteNoteTitle": {
+    "message": "Ta bort anteckning"
+  },
+  "resizeNoteTitle": {
+    "message": "Ändra storlek på noten"
+  }
+}

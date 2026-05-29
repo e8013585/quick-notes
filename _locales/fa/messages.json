@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "یادداشت های سریع - یادداشت های چسبناک در صفحات"
+  },
+  "appDesc": {
+    "message": "یادداشت های چسبنده را در هر صفحه وب ایجاد کنید، جابجا کنید و نگه دارید. یادداشت ها در هر URL ذخیره می شوند و به طور خودکار دوباره ظاهر می شوند."
+  },
+  "appTitle": {
+    "message": "یادداشت های سریع"
+  },
+  "notesOnThisPage": {
+    "message": "یادداشت های این صفحه"
+  },
+  "newStickyNote": {
+    "message": "یادداشت چسبناک جدید"
+  },
+  "showNotes": {
+    "message": "نمایش یادداشت ها"
+  },
+  "toggleAllNotes": {
+    "message": "همه یادداشت‌های این صفحه را تغییر دهید"
+  },
+  "quickColorForNext": {
+    "message": "رنگ سریع برای یادداشت بعدی"
+  },
+  "colorYellow": {
+    "message": "زرد"
+  },
+  "colorBlue": {
+    "message": "آبی"
+  },
+  "colorGreen": {
+    "message": "سبز"
+  },
+  "colorPink": {
+    "message": "صورتی"
+  },
+  "colorPurple": {
+    "message": "بنفش"
+  },
+  "footerText": {
+    "message": "یادداشت ها در هر URL صفحه ذخیره می شوند"
+  },
+  "errorRestricted": {
+    "message": "دسترسی به این صفحه امکان پذیر نیست. Quick Notes فقط در صفحات وب معمولی (مانند http://، https://) کار می کند."
+  },
+  "notePlaceholder": {
+    "message": "یادداشت خود را اینجا تایپ کنید…"
+  },
+  "stickyNoteAriaLabel": {
+    "message": "یادداشت چسبناک"
+  },
+  "noteTextAriaLabel": {
+    "message": "متن یادداشت کنید"
+  },
+  "dragToMoveTitle": {
+    "message": "برای حرکت بکشید"
+  },
+  "deleteNoteTitle": {
+    "message": "حذف یادداشت"
+  },
+  "resizeNoteTitle": {
+    "message": "یادداشت تغییر اندازه"
+  }
+}

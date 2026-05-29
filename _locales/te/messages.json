@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "త్వరిత గమనికలు — పేజీలలో స్టిక్కీ నోట్స్"
+  },
+  "appDesc": {
+    "message": "ఏదైనా వెబ్‌పేజీలో స్టిక్కీ నోట్‌లను సృష్టించండి, తరలించండి మరియు కొనసాగించండి. గమనికలు ఒక్కో URLకి సేవ్ చేయబడతాయి మరియు స్వయంచాలకంగా మళ్లీ కనిపిస్తాయి."
+  },
+  "appTitle": {
+    "message": "త్వరిత గమనికలు"
+  },
+  "notesOnThisPage": {
+    "message": "ఈ పేజీలోని గమనికలు"
+  },
+  "newStickyNote": {
+    "message": "కొత్త స్టిక్కీ నోట్"
+  },
+  "showNotes": {
+    "message": "గమనికలను చూపించు"
+  },
+  "toggleAllNotes": {
+    "message": "ఈ పేజీలోని అన్ని గమనికలను టోగుల్ చేయండి"
+  },
+  "quickColorForNext": {
+    "message": "తదుపరి గమనిక కోసం త్వరిత రంగు"
+  },
+  "colorYellow": {
+    "message": "పసుపు"
+  },
+  "colorBlue": {
+    "message": "నీలం"
+  },
+  "colorGreen": {
+    "message": "ఆకుపచ్చ"
+  },
+  "colorPink": {
+    "message": "పింక్"
+  },
+  "colorPurple": {
+    "message": "ఊదా రంగు"
+  },
+  "footerText": {
+    "message": "ప్రతి పేజీ URLకి గమనికలు సేవ్ చేయబడతాయి"
+  },
+  "errorRestricted": {
+    "message": "ఈ పేజీని యాక్సెస్ చేయలేరు. త్వరిత గమనికలు సాధారణ వెబ్ పేజీలలో మాత్రమే పని చేస్తాయి (ఉదా. http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "మీ గమనికను ఇక్కడ టైప్ చేయండి..."
+  },
+  "stickyNoteAriaLabel": {
+    "message": "అంటుకునే నోట్"
+  },
+  "noteTextAriaLabel": {
+    "message": "వచనాన్ని గమనించండి"
+  },
+  "dragToMoveTitle": {
+    "message": "తరలించడానికి లాగండి"
+  },
+  "deleteNoteTitle": {
+    "message": "గమనికను తొలగించండి"
+  },
+  "resizeNoteTitle": {
+    "message": "గమనిక పరిమాణాన్ని మార్చండి"
+  }
+}

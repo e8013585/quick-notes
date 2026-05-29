@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Pikamuistiinpanot — Muistiinpanot sivuille"
+  },
+  "appDesc": {
+    "message": "Luo, siirrä ja säilytä muistilappuja millä tahansa verkkosivulla. Muistiinpanot tallennetaan URL-osoitetta kohti, ja ne tulevat näkyviin automaattisesti."
+  },
+  "appTitle": {
+    "message": "Nopeat muistiinpanot"
+  },
+  "notesOnThisPage": {
+    "message": "Huomautuksia tällä sivulla"
+  },
+  "newStickyNote": {
+    "message": "Uusi muistilappu"
+  },
+  "showNotes": {
+    "message": "Näytä muistiinpanot"
+  },
+  "toggleAllNotes": {
+    "message": "Vaihda kaikki muistiinpanot tällä sivulla"
+  },
+  "quickColorForNext": {
+    "message": "Nopea väri seuraavaa muistiinpanoa varten"
+  },
+  "colorYellow": {
+    "message": "Keltainen"
+  },
+  "colorBlue": {
+    "message": "Sininen"
+  },
+  "colorGreen": {
+    "message": "Vihreä"
+  },
+  "colorPink": {
+    "message": "Vaaleanpunainen"
+  },
+  "colorPurple": {
+    "message": "Violetti"
+  },
+  "footerText": {
+    "message": "Huomautukset tallennetaan sivun URL-osoitetta kohti"
+  },
+  "errorRestricted": {
+    "message": "Tälle sivulle ei pääse. Quick Notes toimii vain tavallisilla verkkosivuilla (esim. http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Kirjoita muistiinpanosi tähän…"
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Muistilappu"
+  },
+  "noteTextAriaLabel": {
+    "message": "Huomaa teksti"
+  },
+  "dragToMoveTitle": {
+    "message": "Siirrä vetämällä"
+  },
+  "deleteNoteTitle": {
+    "message": "Poista muistiinpano"
+  },
+  "resizeNoteTitle": {
+    "message": "Muuta muistiinpanon kokoa"
+  }
+}

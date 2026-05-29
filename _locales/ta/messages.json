@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "விரைவு குறிப்புகள் - பக்கங்களில் ஒட்டும் குறிப்புகள்"
+  },
+  "appDesc": {
+    "message": "எந்தவொரு வலைப்பக்கத்திலும் ஒட்டும் குறிப்புகளை உருவாக்கவும், நகர்த்தவும் மற்றும் தொடரவும். குறிப்புகள் ஒரு URL க்கு சேமிக்கப்பட்டு தானாகவே மீண்டும் தோன்றும்."
+  },
+  "appTitle": {
+    "message": "விரைவான குறிப்புகள்"
+  },
+  "notesOnThisPage": {
+    "message": "இந்தப் பக்கத்தில் குறிப்புகள்"
+  },
+  "newStickyNote": {
+    "message": "புதிய ஒட்டும் குறிப்பு"
+  },
+  "showNotes": {
+    "message": "குறிப்புகளைக் காட்டு"
+  },
+  "toggleAllNotes": {
+    "message": "இந்தப் பக்கத்தில் உள்ள அனைத்து குறிப்புகளையும் நிலைமாற்று"
+  },
+  "quickColorForNext": {
+    "message": "அடுத்த குறிப்புக்கு விரைவான வண்ணம்"
+  },
+  "colorYellow": {
+    "message": "மஞ்சள்"
+  },
+  "colorBlue": {
+    "message": "நீலம்"
+  },
+  "colorGreen": {
+    "message": "பச்சை"
+  },
+  "colorPink": {
+    "message": "இளஞ்சிவப்பு"
+  },
+  "colorPurple": {
+    "message": "ஊதா"
+  },
+  "footerText": {
+    "message": "குறிப்புகள் ஒரு பக்க URL க்கு சேமிக்கப்படும்"
+  },
+  "errorRestricted": {
+    "message": "இந்தப் பக்கத்தை அணுக முடியவில்லை. விரைவான குறிப்புகள் வழக்கமான இணையப் பக்கங்களில் மட்டுமே வேலை செய்யும் (எ.கா. http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "உங்கள் குறிப்பை இங்கே தட்டச்சு செய்யவும்…"
+  },
+  "stickyNoteAriaLabel": {
+    "message": "ஒட்டும் குறிப்பு"
+  },
+  "noteTextAriaLabel": {
+    "message": "குறிப்பு உரை"
+  },
+  "dragToMoveTitle": {
+    "message": "நகர்த்த இழுக்கவும்"
+  },
+  "deleteNoteTitle": {
+    "message": "குறிப்பை நீக்கு"
+  },
+  "resizeNoteTitle": {
+    "message": "குறிப்பின் அளவை மாற்றவும்"
+  }
+}

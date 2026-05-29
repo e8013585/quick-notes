@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>__MSG_appTitle__</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <div class="popup-container">
+
+    <header class="popup-header">
+      <div class="popup-logo">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" height="22">
+          <rect x="2" y="2" width="20" height="20" rx="3" fill="#F9D84A"/>
+          <rect x="2" y="2" width="20" height="6" rx="3" fill="#F0C030"/>
+          <rect x="2" y="6" width="20" height="2" fill="#F0C030"/>
+          <rect x="5" y="11" width="14" height="2" rx="1" fill="#C8A800" opacity="0.6"/>
+          <rect x="5" y="15" width="10" height="2" rx="1" fill="#C8A800" opacity="0.6"/>
+        </svg>
+      </div>
+      <h1 class="popup-title">__MSG_appTitle__</h1>
+    </header>
+
+    <div class="popup-error" id="popupError" role="alert" hidden>
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round">
+        <circle cx="12" cy="12" r="10"/>
+        <line x1="12" y1="8" x2="12" y2="12"/>
+        <line x1="12" y1="16" x2="12.01" y2="16"/>
+      </svg>
+      <span>__MSG_errorRestricted__</span>
+    </div>
+
+    <div class="popup-status">
+      <span class="status-label">__MSG_notesOnThisPage__</span>
+      <span class="status-count" id="noteCount">0</span>
+    </div>
+
+    <div class="popup-divider"></div>
+
+    <button class="btn btn-primary" id="newNoteBtn">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round">
+        <line x1="12" y1="5" x2="12" y2="19"/>
+        <line x1="5" y1="12" x2="19" y2="12"/>
+      </svg>
+      __MSG_newStickyNote__
+    </button>
+
+    <div class="popup-divider"></div>
+
+    <div class="toggle-row">
+      <div class="toggle-info">
+        <span class="toggle-label">__MSG_showNotes__</span>
+        <span class="toggle-sublabel">__MSG_toggleAllNotes__</span>
+      </div>
+      <label class="toggle-switch" id="visibilityToggleLabel" aria-label="__MSG_showNotes__">
+        <input type="checkbox" id="visibilityToggle" checked />
+        <span class="toggle-track">
+          <span class="toggle-thumb"></span>
+        </span>
+      </label>
+    </div>
+
+    <div class="popup-divider"></div>
+
+    <div class="quick-colors">
+      <span class="quick-colors-label">__MSG_quickColorForNext__</span>
+      <div class="color-swatches" id="colorSwatches">
+        <button class="swatch active" data-color="yellow" title="__MSG_colorYellow__" style="background:#F9D84A;" aria-label="__MSG_colorYellow__"></button>
+        <button class="swatch" data-color="blue" title="__MSG_colorBlue__" style="background:#7EC8E3;" aria-label="__MSG_colorBlue__"></button>
+        <button class="swatch" data-color="green" title="__MSG_colorGreen__" style="background:#A8D8A8;" aria-label="__MSG_colorGreen__"></button>
+        <button class="swatch" data-color="pink" title="__MSG_colorPink__" style="background:#F4A7B9;" aria-label="__MSG_colorPink__"></button>
+        <button class="swatch" data-color="purple" title="__MSG_colorPurple__" style="background:#C9B1E8;" aria-label="__MSG_colorPurple__"></button>
+      </div>
+    </div>
+
+    <footer class="popup-footer">
+      <span>__MSG_footerText__</span>
+    </footer>
+
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>

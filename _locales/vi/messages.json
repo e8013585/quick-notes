@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Ghi chú nhanh - Ghi chú dán trên trang"
+  },
+  "appDesc": {
+    "message": "Tạo, di chuyển và lưu giữ các ghi chú dán trên bất kỳ trang web nào. Ghi chú được lưu trên mỗi URL và tự động xuất hiện lại."
+  },
+  "appTitle": {
+    "message": "Ghi chú nhanh"
+  },
+  "notesOnThisPage": {
+    "message": "Ghi chú trên trang này"
+  },
+  "newStickyNote": {
+    "message": "Ghi chú dán mới"
+  },
+  "showNotes": {
+    "message": "Hiển thị ghi chú"
+  },
+  "toggleAllNotes": {
+    "message": "Chuyển đổi tất cả các ghi chú trên trang này"
+  },
+  "quickColorForNext": {
+    "message": "Màu nhanh cho ghi chú tiếp theo"
+  },
+  "colorYellow": {
+    "message": "Màu vàng"
+  },
+  "colorBlue": {
+    "message": "Màu xanh da trời"
+  },
+  "colorGreen": {
+    "message": "Màu xanh lá"
+  },
+  "colorPink": {
+    "message": "Hồng"
+  },
+  "colorPurple": {
+    "message": "Màu tím"
+  },
+  "footerText": {
+    "message": "Ghi chú được lưu trên mỗi URL trang"
+  },
+  "errorRestricted": {
+    "message": "Không thể truy cập trang này. Ghi chú Nhanh chỉ hoạt động trên các trang web thông thường (ví dụ: http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Nhập ghi chú của bạn vào đây…"
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Giấy dán ghi chú"
+  },
+  "noteTextAriaLabel": {
+    "message": "Ghi chú văn bản"
+  },
+  "dragToMoveTitle": {
+    "message": "Kéo để di chuyển"
+  },
+  "deleteNoteTitle": {
+    "message": "Xóa ghi chú"
+  },
+  "resizeNoteTitle": {
+    "message": "Thay đổi kích thước ghi chú"
+  }
+}

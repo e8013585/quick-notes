@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Catatan Cepat — Catatan Tempel di Halaman"
+  },
+  "appDesc": {
+    "message": "Buat, pindahkan, dan pertahankan catatan tempel di halaman web mana pun. Catatan disimpan per URL dan muncul kembali secara otomatis."
+  },
+  "appTitle": {
+    "message": "Catatan Singkat"
+  },
+  "notesOnThisPage": {
+    "message": "Catatan di halaman ini"
+  },
+  "newStickyNote": {
+    "message": "Catatan Tempel Baru"
+  },
+  "showNotes": {
+    "message": "Tampilkan Catatan"
+  },
+  "toggleAllNotes": {
+    "message": "Alihkan semua catatan di halaman ini"
+  },
+  "quickColorForNext": {
+    "message": "Warna cepat untuk catatan berikutnya"
+  },
+  "colorYellow": {
+    "message": "Kuning"
+  },
+  "colorBlue": {
+    "message": "Biru"
+  },
+  "colorGreen": {
+    "message": "Hijau"
+  },
+  "colorPink": {
+    "message": "Berwarna merah muda"
+  },
+  "colorPurple": {
+    "message": "Ungu"
+  },
+  "footerText": {
+    "message": "Catatan disimpan per URL halaman"
+  },
+  "errorRestricted": {
+    "message": "Tidak dapat mengakses halaman ini. Catatan Cepat hanya berfungsi di halaman web biasa (misalnya http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Ketik catatan Anda di sini…"
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Catatan tempel"
+  },
+  "noteTextAriaLabel": {
+    "message": "Catatan teks"
+  },
+  "dragToMoveTitle": {
+    "message": "Seret untuk bergerak"
+  },
+  "deleteNoteTitle": {
+    "message": "Hapus catatan"
+  },
+  "resizeNoteTitle": {
+    "message": "Ubah ukuran catatan"
+  }
+}

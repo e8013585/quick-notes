@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Gyors jegyzetek – Ragadós jegyzetek az oldalakon"
+  },
+  "appDesc": {
+    "message": "Hozzon létre, helyezzen át és őrizzen meg ragadós jegyzeteket bármely weboldalon. A jegyzetek URL-enként kerülnek mentésre, és automatikusan újra megjelennek."
+  },
+  "appTitle": {
+    "message": "Gyors megjegyzések"
+  },
+  "notesOnThisPage": {
+    "message": "Megjegyzések ezen az oldalon"
+  },
+  "newStickyNote": {
+    "message": "Új öntapadó jegyzet"
+  },
+  "showNotes": {
+    "message": "Jegyzetek megjelenítése"
+  },
+  "toggleAllNotes": {
+    "message": "Az összes jegyzet be- és kikapcsolása ezen az oldalon"
+  },
+  "quickColorForNext": {
+    "message": "Gyors szín a következő jegyzethez"
+  },
+  "colorYellow": {
+    "message": "Sárga"
+  },
+  "colorBlue": {
+    "message": "Kék"
+  },
+  "colorGreen": {
+    "message": "Zöld"
+  },
+  "colorPink": {
+    "message": "Rózsaszín"
+  },
+  "colorPurple": {
+    "message": "Lila"
+  },
+  "footerText": {
+    "message": "A megjegyzések oldal URL-címenként kerülnek mentésre"
+  },
+  "errorRestricted": {
+    "message": "Ezt az oldalt nem lehet elérni. A Quick Notes csak normál weboldalakon működik (pl. http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Írja ide a jegyzetét…"
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Öntapadó cetli"
+  },
+  "noteTextAriaLabel": {
+    "message": "Megjegyzés szövege"
+  },
+  "dragToMoveTitle": {
+    "message": "Húzza a mozgatáshoz"
+  },
+  "deleteNoteTitle": {
+    "message": "Jegyzet törlése"
+  },
+  "resizeNoteTitle": {
+    "message": "Jegyzet átméretezése"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "빠른 메모 — 페이지의 스티커 메모"
+  },
+  "appDesc": {
+    "message": "모든 웹페이지에서 스티커 메모를 만들고, 이동하고, 유지하세요. 메모는 URL별로 저장되며 자동으로 다시 나타납니다."
+  },
+  "appTitle": {
+    "message": "빠른 메모"
+  },
+  "notesOnThisPage": {
+    "message": "이 페이지에 대한 참고 사항"
+  },
+  "newStickyNote": {
+    "message": "새 스티커 메모"
+  },
+  "showNotes": {
+    "message": "메모 표시"
+  },
+  "toggleAllNotes": {
+    "message": "이 페이지의 모든 메모 전환"
+  },
+  "quickColorForNext": {
+    "message": "다음 노트를 위한 빠른 색상"
+  },
+  "colorYellow": {
+    "message": "노란색"
+  },
+  "colorBlue": {
+    "message": "파란색"
+  },
+  "colorGreen": {
+    "message": "녹색"
+  },
+  "colorPink": {
+    "message": "분홍색"
+  },
+  "colorPurple": {
+    "message": "보라"
+  },
+  "footerText": {
+    "message": "메모는 페이지 URL별로 저장됩니다."
+  },
+  "errorRestricted": {
+    "message": "이 페이지에 액세스할 수 없습니다. 빠른 메모는 일반 웹 페이지(예: http://, https://)에서만 작동합니다."
+  },
+  "notePlaceholder": {
+    "message": "여기에 메모를 입력하세요…"
+  },
+  "stickyNoteAriaLabel": {
+    "message": "스티커 메모"
+  },
+  "noteTextAriaLabel": {
+    "message": "메모 텍스트"
+  },
+  "dragToMoveTitle": {
+    "message": "드래그하여 이동"
+  },
+  "deleteNoteTitle": {
+    "message": "메모 삭제"
+  },
+  "resizeNoteTitle": {
+    "message": "메모 크기 조정"
+  }
+}

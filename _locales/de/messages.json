@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Schnelle Notizen – Haftnotizen auf Seiten"
+  },
+  "appDesc": {
+    "message": "Erstellen, verschieben und speichern Sie Haftnotizen auf jeder Webseite. Notizen werden pro URL gespeichert und erscheinen automatisch wieder."
+  },
+  "appTitle": {
+    "message": "Kurze Notizen"
+  },
+  "notesOnThisPage": {
+    "message": "Hinweise auf dieser Seite"
+  },
+  "newStickyNote": {
+    "message": "Neue Haftnotiz"
+  },
+  "showNotes": {
+    "message": "Notizen anzeigen"
+  },
+  "toggleAllNotes": {
+    "message": "Alle Notizen auf dieser Seite umschalten"
+  },
+  "quickColorForNext": {
+    "message": "Schnelle Farbe für die nächste Notiz"
+  },
+  "colorYellow": {
+    "message": "Gelb"
+  },
+  "colorBlue": {
+    "message": "Blau"
+  },
+  "colorGreen": {
+    "message": "Grün"
+  },
+  "colorPink": {
+    "message": "Rosa"
+  },
+  "colorPurple": {
+    "message": "Lila"
+  },
+  "footerText": {
+    "message": "Notizen werden pro Seiten-URL gespeichert"
+  },
+  "errorRestricted": {
+    "message": "Auf diese Seite kann nicht zugegriffen werden. Quick Notes funktioniert nur auf normalen Webseiten (z. B. http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Geben Sie hier Ihre Notiz ein ..."
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Haftnotiz"
+  },
+  "noteTextAriaLabel": {
+    "message": "Notiztext"
+  },
+  "dragToMoveTitle": {
+    "message": "Zum Verschieben ziehen"
+  },
+  "deleteNoteTitle": {
+    "message": "Notiz löschen"
+  },
+  "resizeNoteTitle": {
+    "message": "Größe der Notiz ändern"
+  }
+}

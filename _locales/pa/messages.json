@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "ਤਤਕਾਲ ਨੋਟਸ - ਪੰਨਿਆਂ 'ਤੇ ਸਟਿੱਕੀ ਨੋਟਸ"
+  },
+  "appDesc": {
+    "message": "ਕਿਸੇ ਵੀ ਵੈੱਬਪੇਜ 'ਤੇ ਸਟਿੱਕੀ ਨੋਟਸ ਬਣਾਓ, ਹਿਲਾਓ ਅਤੇ ਜਾਰੀ ਰੱਖੋ। ਨੋਟਸ ਪ੍ਰਤੀ URL ਸੁਰੱਖਿਅਤ ਕੀਤੇ ਜਾਂਦੇ ਹਨ ਅਤੇ ਆਪਣੇ ਆਪ ਮੁੜ ਪ੍ਰਗਟ ਹੁੰਦੇ ਹਨ।"
+  },
+  "appTitle": {
+    "message": "ਤਤਕਾਲ ਨੋਟਸ"
+  },
+  "notesOnThisPage": {
+    "message": "ਇਸ ਪੰਨੇ 'ਤੇ ਨੋਟਸ"
+  },
+  "newStickyNote": {
+    "message": "ਨਵਾਂ ਸਟਿੱਕੀ ਨੋਟ"
+  },
+  "showNotes": {
+    "message": "ਨੋਟਿਸ ਦਿਖਾਓ"
+  },
+  "toggleAllNotes": {
+    "message": "ਇਸ ਪੰਨੇ 'ਤੇ ਸਾਰੇ ਨੋਟਸ ਨੂੰ ਟੌਗਲ ਕਰੋ"
+  },
+  "quickColorForNext": {
+    "message": "ਅਗਲੇ ਨੋਟ ਲਈ ਤੇਜ਼ ਰੰਗ"
+  },
+  "colorYellow": {
+    "message": "ਪੀਲਾ"
+  },
+  "colorBlue": {
+    "message": "ਨੀਲਾ"
+  },
+  "colorGreen": {
+    "message": "ਹਰਾ"
+  },
+  "colorPink": {
+    "message": "ਗੁਲਾਬੀ"
+  },
+  "colorPurple": {
+    "message": "ਜਾਮਨੀ"
+  },
+  "footerText": {
+    "message": "ਨੋਟਸ ਪ੍ਰਤੀ ਪੰਨਾ URL ਸੁਰੱਖਿਅਤ ਕੀਤੇ ਜਾਂਦੇ ਹਨ"
+  },
+  "errorRestricted": {
+    "message": "ਇਸ ਪੰਨੇ ਤੱਕ ਪਹੁੰਚ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ। ਤਤਕਾਲ ਨੋਟਸ ਸਿਰਫ਼ ਨਿਯਮਤ ਵੈੱਬ ਪੰਨਿਆਂ (ਜਿਵੇਂ ਕਿ http://, https://) 'ਤੇ ਕੰਮ ਕਰਦੇ ਹਨ।"
+  },
+  "notePlaceholder": {
+    "message": "ਇੱਥੇ ਆਪਣਾ ਨੋਟ ਟਾਈਪ ਕਰੋ..."
+  },
+  "stickyNoteAriaLabel": {
+    "message": "ਸਟਿੱਕੀ ਨੋਟ"
+  },
+  "noteTextAriaLabel": {
+    "message": "ਨੋਟ ਟੈਕਸਟ"
+  },
+  "dragToMoveTitle": {
+    "message": "ਮੂਵ ਕਰਨ ਲਈ ਘਸੀਟੋ"
+  },
+  "deleteNoteTitle": {
+    "message": "ਨੋਟ ਮਿਟਾਓ"
+  },
+  "resizeNoteTitle": {
+    "message": "ਨੋਟ ਦਾ ਆਕਾਰ ਬਦਲੋ"
+  }
+}

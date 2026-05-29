@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Γρήγορες σημειώσεις — Αυτοκόλλητες σημειώσεις σε σελίδες"
+  },
+  "appDesc": {
+    "message": "Δημιουργήστε, μετακινήστε και διατηρήστε τις αυτοκόλλητες σημειώσεις σε οποιαδήποτε ιστοσελίδα. Οι σημειώσεις αποθηκεύονται ανά URL και επανεμφανίζονται αυτόματα."
+  },
+  "appTitle": {
+    "message": "Γρήγορες σημειώσεις"
+  },
+  "notesOnThisPage": {
+    "message": "Σημειώσεις σε αυτή τη σελίδα"
+  },
+  "newStickyNote": {
+    "message": "Νέα αυτοκόλλητη σημείωση"
+  },
+  "showNotes": {
+    "message": "Εμφάνιση σημειώσεων"
+  },
+  "toggleAllNotes": {
+    "message": "Εναλλαγή όλων των σημειώσεων σε αυτήν τη σελίδα"
+  },
+  "quickColorForNext": {
+    "message": "Γρήγορο χρώμα για την επόμενη νότα"
+  },
+  "colorYellow": {
+    "message": "Κίτρινος"
+  },
+  "colorBlue": {
+    "message": "Μπλε"
+  },
+  "colorGreen": {
+    "message": "Πράσινος"
+  },
+  "colorPink": {
+    "message": "Ροζ"
+  },
+  "colorPurple": {
+    "message": "Μωβ"
+  },
+  "footerText": {
+    "message": "Οι σημειώσεις αποθηκεύονται ανά διεύθυνση URL σελίδας"
+  },
+  "errorRestricted": {
+    "message": "Δεν είναι δυνατή η πρόσβαση σε αυτήν τη σελίδα. Το Quick Notes λειτουργεί μόνο σε κανονικές ιστοσελίδες (π.χ. http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Πληκτρολογήστε τη σημείωσή σας εδώ…"
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Κολλητική σημείωση"
+  },
+  "noteTextAriaLabel": {
+    "message": "Σημείωση κειμένου"
+  },
+  "dragToMoveTitle": {
+    "message": "Σύρετε για να μετακινηθείτε"
+  },
+  "deleteNoteTitle": {
+    "message": "Διαγραφή σημείωσης"
+  },
+  "resizeNoteTitle": {
+    "message": "Σημείωση αλλαγής μεγέθους"
+  }
+}

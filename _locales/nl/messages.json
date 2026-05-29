@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Snelle notities — Plaknotities op pagina's"
+  },
+  "appDesc": {
+    "message": "Maak, verplaats en bewaar plaknotities op elke webpagina. Notities worden per URL opgeslagen en verschijnen automatisch opnieuw."
+  },
+  "appTitle": {
+    "message": "Snelle notities"
+  },
+  "notesOnThisPage": {
+    "message": "Opmerkingen op deze pagina"
+  },
+  "newStickyNote": {
+    "message": "Nieuwe plaknotitie"
+  },
+  "showNotes": {
+    "message": "Toon notities"
+  },
+  "toggleAllNotes": {
+    "message": "Schakel alle notities op deze pagina in"
+  },
+  "quickColorForNext": {
+    "message": "Snelle kleur voor de volgende notitie"
+  },
+  "colorYellow": {
+    "message": "Geel"
+  },
+  "colorBlue": {
+    "message": "Blauw"
+  },
+  "colorGreen": {
+    "message": "Groente"
+  },
+  "colorPink": {
+    "message": "Roze"
+  },
+  "colorPurple": {
+    "message": "Paars"
+  },
+  "footerText": {
+    "message": "Notities worden per pagina-URL opgeslagen"
+  },
+  "errorRestricted": {
+    "message": "Kan deze pagina niet openen. Quick Notes werkt alleen op gewone webpagina's (bijvoorbeeld http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Typ hier uw notitie..."
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Kleverige notitie"
+  },
+  "noteTextAriaLabel": {
+    "message": "Let op tekst"
+  },
+  "dragToMoveTitle": {
+    "message": "Sleep om te verplaatsen"
+  },
+  "deleteNoteTitle": {
+    "message": "Notitie verwijderen"
+  },
+  "resizeNoteTitle": {
+    "message": "Formaat van notitie wijzigen"
+  }
+}

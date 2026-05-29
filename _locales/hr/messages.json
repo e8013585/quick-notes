@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Brze bilješke — ljepljive bilješke na stranicama"
+  },
+  "appDesc": {
+    "message": "Stvorite, premjestite i držite ljepljive bilješke na bilo kojoj web stranici. Bilješke se spremaju po URL-u i automatski se ponovno pojavljuju."
+  },
+  "appTitle": {
+    "message": "Brze bilješke"
+  },
+  "notesOnThisPage": {
+    "message": "Bilješke na ovoj stranici"
+  },
+  "newStickyNote": {
+    "message": "Nova ljepljiva bilješka"
+  },
+  "showNotes": {
+    "message": "Prikaži bilješke"
+  },
+  "toggleAllNotes": {
+    "message": "Uključi sve bilješke na ovoj stranici"
+  },
+  "quickColorForNext": {
+    "message": "Brza boja za sljedeću bilješku"
+  },
+  "colorYellow": {
+    "message": "Žuta boja"
+  },
+  "colorBlue": {
+    "message": "Plava"
+  },
+  "colorGreen": {
+    "message": "zelena"
+  },
+  "colorPink": {
+    "message": "Ružičasta"
+  },
+  "colorPurple": {
+    "message": "Ljubičasta"
+  },
+  "footerText": {
+    "message": "Bilješke se spremaju po URL-u stranice"
+  },
+  "errorRestricted": {
+    "message": "Ne mogu pristupiti ovoj stranici. Quick Notes radi samo na običnim web stranicama (npr. http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Ovdje upišite svoju bilješku…"
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Samoljepljiva bilješka"
+  },
+  "noteTextAriaLabel": {
+    "message": "Tekst bilješke"
+  },
+  "dragToMoveTitle": {
+    "message": "Povucite za pomicanje"
+  },
+  "deleteNoteTitle": {
+    "message": "Izbriši bilješku"
+  },
+  "resizeNoteTitle": {
+    "message": "Promjena veličine bilješke"
+  }
+}

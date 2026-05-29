@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Vidokezo vya Haraka - Vidokezo vinavyonata kwenye Kurasa"
+  },
+  "appDesc": {
+    "message": "Unda, sogeza na uendelee madokezo yanayonata kwenye ukurasa wowote wa tovuti. Vidokezo huhifadhiwa kwa kila URL na huonekana kiotomatiki."
+  },
+  "appTitle": {
+    "message": "Vidokezo vya Haraka"
+  },
+  "notesOnThisPage": {
+    "message": "Vidokezo kwenye ukurasa huu"
+  },
+  "newStickyNote": {
+    "message": "Ujumbe Mpya Unata"
+  },
+  "showNotes": {
+    "message": "Onyesha Vidokezo"
+  },
+  "toggleAllNotes": {
+    "message": "Geuza madokezo yote kwenye ukurasa huu"
+  },
+  "quickColorForNext": {
+    "message": "Rangi ya haraka kwa dokezo linalofuata"
+  },
+  "colorYellow": {
+    "message": "Njano"
+  },
+  "colorBlue": {
+    "message": "Bluu"
+  },
+  "colorGreen": {
+    "message": "Kijani"
+  },
+  "colorPink": {
+    "message": "Pink"
+  },
+  "colorPurple": {
+    "message": "Zambarau"
+  },
+  "footerText": {
+    "message": "Vidokezo vinahifadhiwa kwa kila ukurasa wa URL"
+  },
+  "errorRestricted": {
+    "message": "Haiwezi kufikia ukurasa huu. Vidokezo vya Haraka hufanya kazi tu kwenye kurasa za kawaida za wavuti (k.m. http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Andika dokezo lako hapa..."
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Ujumbe unaonata"
+  },
+  "noteTextAriaLabel": {
+    "message": "Kumbuka maandishi"
+  },
+  "dragToMoveTitle": {
+    "message": "Buruta ili usogeze"
+  },
+  "deleteNoteTitle": {
+    "message": "Futa kidokezo"
+  },
+  "resizeNoteTitle": {
+    "message": "Badilisha ukubwa wa dokezo"
+  }
+}

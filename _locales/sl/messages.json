@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Hitri zapiski — lepljivi zapiski na straneh"
+  },
+  "appDesc": {
+    "message": "Ustvarite, premaknite in obdržite lepljive zapiske na kateri koli spletni strani. Opombe se shranijo na URL in se samodejno znova prikažejo."
+  },
+  "appTitle": {
+    "message": "Hitre opombe"
+  },
+  "notesOnThisPage": {
+    "message": "Opombe na tej strani"
+  },
+  "newStickyNote": {
+    "message": "Nova lepljiva opomba"
+  },
+  "showNotes": {
+    "message": "Prikaži opombe"
+  },
+  "toggleAllNotes": {
+    "message": "Preklopi vse zapiske na tej strani"
+  },
+  "quickColorForNext": {
+    "message": "Hitra barva za naslednjo noto"
+  },
+  "colorYellow": {
+    "message": "Rumena"
+  },
+  "colorBlue": {
+    "message": "Modra"
+  },
+  "colorGreen": {
+    "message": "zelena"
+  },
+  "colorPink": {
+    "message": "Roza"
+  },
+  "colorPurple": {
+    "message": "Vijolična"
+  },
+  "footerText": {
+    "message": "Opombe se shranijo na URL strani"
+  },
+  "errorRestricted": {
+    "message": "Do te strani ni mogoče dostopati. Quick Notes deluje samo na navadnih spletnih straneh (npr. http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Tukaj vnesite svojo opombo ..."
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Samolepilni list"
+  },
+  "noteTextAriaLabel": {
+    "message": "Besedilo opombe"
+  },
+  "dragToMoveTitle": {
+    "message": "Povlecite za premikanje"
+  },
+  "deleteNoteTitle": {
+    "message": "Izbriši opombo"
+  },
+  "resizeNoteTitle": {
+    "message": "Spremeni velikost beležke"
+  }
+}

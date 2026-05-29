@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "บันทึกย่อด่วน — บันทึกย่อช่วยเตือนบนเพจ"
+  },
+  "appDesc": {
+    "message": "สร้าง ย้าย และคงบันทึกย่อช่วยเตือนไว้บนเว็บเพจใดก็ได้ บันทึกย่อจะถูกบันทึกต่อ URL และปรากฏขึ้นอีกครั้งโดยอัตโนมัติ"
+  },
+  "appTitle": {
+    "message": "หมายเหตุด่วน"
+  },
+  "notesOnThisPage": {
+    "message": "หมายเหตุในหน้านี้"
+  },
+  "newStickyNote": {
+    "message": "บันทึกช่วยเตือนใหม่"
+  },
+  "showNotes": {
+    "message": "แสดงบันทึกย่อ"
+  },
+  "toggleAllNotes": {
+    "message": "สลับบันทึกย่อทั้งหมดในหน้านี้"
+  },
+  "quickColorForNext": {
+    "message": "สีด่วนสำหรับบันทึกถัดไป"
+  },
+  "colorYellow": {
+    "message": "สีเหลือง"
+  },
+  "colorBlue": {
+    "message": "สีฟ้า"
+  },
+  "colorGreen": {
+    "message": "สีเขียว"
+  },
+  "colorPink": {
+    "message": "สีชมพู"
+  },
+  "colorPurple": {
+    "message": "สีม่วง"
+  },
+  "footerText": {
+    "message": "บันทึกย่อจะถูกบันทึกไว้ต่อ URL ของหน้า"
+  },
+  "errorRestricted": {
+    "message": "ไม่สามารถเข้าถึงหน้านี้ได้ Quick Notes ใช้งานได้บนหน้าเว็บปกติเท่านั้น (เช่น http://, https://)"
+  },
+  "notePlaceholder": {
+    "message": "พิมพ์บันทึกย่อของคุณที่นี่..."
+  },
+  "stickyNoteAriaLabel": {
+    "message": "โน้ตติดหนึบ"
+  },
+  "noteTextAriaLabel": {
+    "message": "ข้อความหมายเหตุ"
+  },
+  "dragToMoveTitle": {
+    "message": "ลากเพื่อย้าย"
+  },
+  "deleteNoteTitle": {
+    "message": "ลบบันทึก"
+  },
+  "resizeNoteTitle": {
+    "message": "ปรับขนาดบันทึกย่อ"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Greiti užrašai – lipnūs užrašai puslapiuose"
+  },
+  "appDesc": {
+    "message": "Kurkite, perkelkite ir išsaugokite lipdukus bet kuriame tinklalapyje. Pastabos išsaugomos kiekviename URL ir vėl pasirodo automatiškai."
+  },
+  "appTitle": {
+    "message": "Greiti užrašai"
+  },
+  "notesOnThisPage": {
+    "message": "Pastabos šiame puslapyje"
+  },
+  "newStickyNote": {
+    "message": "Naujas lipnus lapelis"
+  },
+  "showNotes": {
+    "message": "Rodyti pastabas"
+  },
+  "toggleAllNotes": {
+    "message": "Perjungti visas pastabas šiame puslapyje"
+  },
+  "quickColorForNext": {
+    "message": "Greita spalva kitam užrašui"
+  },
+  "colorYellow": {
+    "message": "Geltona"
+  },
+  "colorBlue": {
+    "message": "Mėlyna"
+  },
+  "colorGreen": {
+    "message": "Žalia"
+  },
+  "colorPink": {
+    "message": "Rožinė"
+  },
+  "colorPurple": {
+    "message": "Violetinė"
+  },
+  "footerText": {
+    "message": "Pastabos išsaugomos kiekviename puslapio URL"
+  },
+  "errorRestricted": {
+    "message": "Negaliu pasiekti šio puslapio. Greiti užrašai veikia tik įprastuose tinklalapiuose (pvz., http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Įveskite savo pastabą čia…"
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Lipnus lapelis"
+  },
+  "noteTextAriaLabel": {
+    "message": "Pastabos tekstas"
+  },
+  "dragToMoveTitle": {
+    "message": "Vilkite, kad judėtumėte"
+  },
+  "deleteNoteTitle": {
+    "message": "Ištrinti pastabą"
+  },
+  "resizeNoteTitle": {
+    "message": "Pakeisti užrašo dydį"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Швидкі нотатки — наліпки на сторінках"
+  },
+  "appDesc": {
+    "message": "Створюйте, переміщуйте та зберігайте нотатки на будь-якій веб-сторінці. Нотатки зберігаються для кожної URL-адреси та автоматично з’являються знову."
+  },
+  "appTitle": {
+    "message": "Швидкі нотатки"
+  },
+  "notesOnThisPage": {
+    "message": "Примітки на цій сторінці"
+  },
+  "newStickyNote": {
+    "message": "Нова липка нотатка"
+  },
+  "showNotes": {
+    "message": "Показати примітки"
+  },
+  "toggleAllNotes": {
+    "message": "Перемкнути всі нотатки на цій сторінці"
+  },
+  "quickColorForNext": {
+    "message": "Швидкий колір для наступної нотатки"
+  },
+  "colorYellow": {
+    "message": "Жовтий"
+  },
+  "colorBlue": {
+    "message": "Синій"
+  },
+  "colorGreen": {
+    "message": "Зелений"
+  },
+  "colorPink": {
+    "message": "Рожевий"
+  },
+  "colorPurple": {
+    "message": "Фіолетовий"
+  },
+  "footerText": {
+    "message": "Примітки зберігаються для кожної URL-адреси сторінки"
+  },
+  "errorRestricted": {
+    "message": "Неможливо отримати доступ до цієї сторінки. Швидкі нотатки працюють лише на звичайних веб-сторінках (наприклад, http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Введіть свою нотатку тут…"
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Наліпка"
+  },
+  "noteTextAriaLabel": {
+    "message": "Текст примітки"
+  },
+  "dragToMoveTitle": {
+    "message": "Перетягніть, щоб переміститися"
+  },
+  "deleteNoteTitle": {
+    "message": "Видалити примітку"
+  },
+  "resizeNoteTitle": {
+    "message": "Змінити розмір нотатки"
+  }
+}

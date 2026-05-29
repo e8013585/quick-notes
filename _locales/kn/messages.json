@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "ತ್ವರಿತ ಟಿಪ್ಪಣಿಗಳು - ಪುಟಗಳಲ್ಲಿ ಜಿಗುಟಾದ ಟಿಪ್ಪಣಿಗಳು"
+  },
+  "appDesc": {
+    "message": "ಯಾವುದೇ ವೆಬ್‌ಪುಟದಲ್ಲಿ ಜಿಗುಟಾದ ಟಿಪ್ಪಣಿಗಳನ್ನು ರಚಿಸಿ, ಸರಿಸಿ ಮತ್ತು ಮುಂದುವರಿಸಿ. ಟಿಪ್ಪಣಿಗಳನ್ನು ಪ್ರತಿ URL ಗೆ ಉಳಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಮತ್ತೆ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತದೆ."
+  },
+  "appTitle": {
+    "message": "ತ್ವರಿತ ಟಿಪ್ಪಣಿಗಳು"
+  },
+  "notesOnThisPage": {
+    "message": "ಈ ಪುಟದಲ್ಲಿ ಟಿಪ್ಪಣಿಗಳು"
+  },
+  "newStickyNote": {
+    "message": "ಹೊಸ ಸ್ಟಿಕಿ ನೋಟ್"
+  },
+  "showNotes": {
+    "message": "ಟಿಪ್ಪಣಿಗಳನ್ನು ತೋರಿಸಿ"
+  },
+  "toggleAllNotes": {
+    "message": "ಈ ಪುಟದಲ್ಲಿ ಎಲ್ಲಾ ಟಿಪ್ಪಣಿಗಳನ್ನು ಟಾಗಲ್ ಮಾಡಿ"
+  },
+  "quickColorForNext": {
+    "message": "ಮುಂದಿನ ಟಿಪ್ಪಣಿಗೆ ತ್ವರಿತ ಬಣ್ಣ"
+  },
+  "colorYellow": {
+    "message": "ಹಳದಿ"
+  },
+  "colorBlue": {
+    "message": "ನೀಲಿ"
+  },
+  "colorGreen": {
+    "message": "ಹಸಿರು"
+  },
+  "colorPink": {
+    "message": "ಗುಲಾಬಿ"
+  },
+  "colorPurple": {
+    "message": "ನೇರಳೆ"
+  },
+  "footerText": {
+    "message": "ಪ್ರತಿ ಪುಟದ URL ಗೆ ಟಿಪ್ಪಣಿಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ"
+  },
+  "errorRestricted": {
+    "message": "ಈ ಪುಟವನ್ನು ಪ್ರವೇಶಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ತ್ವರಿತ ಟಿಪ್ಪಣಿಗಳು ಸಾಮಾನ್ಯ ವೆಬ್ ಪುಟಗಳಲ್ಲಿ ಮಾತ್ರ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ (ಉದಾ. http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "ನಿಮ್ಮ ಟಿಪ್ಪಣಿಯನ್ನು ಇಲ್ಲಿ ಟೈಪ್ ಮಾಡಿ..."
+  },
+  "stickyNoteAriaLabel": {
+    "message": "ಜಿಗುಟಾದ ಟಿಪ್ಪಣಿ"
+  },
+  "noteTextAriaLabel": {
+    "message": "ಪಠ್ಯವನ್ನು ಗಮನಿಸಿ"
+  },
+  "dragToMoveTitle": {
+    "message": "ಸರಿಸಲು ಎಳೆಯಿರಿ"
+  },
+  "deleteNoteTitle": {
+    "message": "ಟಿಪ್ಪಣಿ ಅಳಿಸಿ"
+  },
+  "resizeNoteTitle": {
+    "message": "ಟಿಪ್ಪಣಿಯನ್ನು ಮರುಗಾತ್ರಗೊಳಿಸಿ"
+  }
+}

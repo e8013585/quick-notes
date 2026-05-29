@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Quick Notes — Sticky Notes on Pages"
+  },
+  "appDesc": {
+    "message": "Create, move, and persist sticky notes on any webpage. Notes are saved per URL and reappear automatically."
+  },
+  "appTitle": {
+    "message": "Quick Notes"
+  },
+  "notesOnThisPage": {
+    "message": "Notes on this page"
+  },
+  "newStickyNote": {
+    "message": "New Sticky Note"
+  },
+  "showNotes": {
+    "message": "Show Notes"
+  },
+  "toggleAllNotes": {
+    "message": "Toggle all notes on this page"
+  },
+  "quickColorForNext": {
+    "message": "Quick color for next note"
+  },
+  "colorYellow": {
+    "message": "Yellow"
+  },
+  "colorBlue": {
+    "message": "Blue"
+  },
+  "colorGreen": {
+    "message": "Green"
+  },
+  "colorPink": {
+    "message": "Pink"
+  },
+  "colorPurple": {
+    "message": "Purple"
+  },
+  "footerText": {
+    "message": "Notes are saved per page URL"
+  },
+  "errorRestricted": {
+    "message": "Cannot access this page. Quick Notes only works on regular web pages (e.g. http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Type your note here…"
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Sticky note"
+  },
+  "noteTextAriaLabel": {
+    "message": "Note text"
+  },
+  "dragToMoveTitle": {
+    "message": "Drag to move"
+  },
+  "deleteNoteTitle": {
+    "message": "Delete note"
+  },
+  "resizeNoteTitle": {
+    "message": "Resize note"
+  }
+}

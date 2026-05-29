@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Ātrās piezīmes — līmlapiņas lapās"
+  },
+  "appDesc": {
+    "message": "Izveidojiet, pārvietojiet un saglabājiet līmlapiņas jebkurā tīmekļa lapā. Piezīmes tiek saglabātas katrā URL un atkal parādās automātiski."
+  },
+  "appTitle": {
+    "message": "Ātrās piezīmes"
+  },
+  "notesOnThisPage": {
+    "message": "Piezīmes šajā lapā"
+  },
+  "newStickyNote": {
+    "message": "Jauna līmlapiņa"
+  },
+  "showNotes": {
+    "message": "Rādīt piezīmes"
+  },
+  "toggleAllNotes": {
+    "message": "Pārslēgt visas piezīmes šajā lapā"
+  },
+  "quickColorForNext": {
+    "message": "Ātra krāsa nākamajai piezīmei"
+  },
+  "colorYellow": {
+    "message": "Dzeltens"
+  },
+  "colorBlue": {
+    "message": "Zils"
+  },
+  "colorGreen": {
+    "message": "Zaļš"
+  },
+  "colorPink": {
+    "message": "Rozā"
+  },
+  "colorPurple": {
+    "message": "Violeta"
+  },
+  "footerText": {
+    "message": "Piezīmes tiek saglabātas katrā lapas URL"
+  },
+  "errorRestricted": {
+    "message": "Nevar piekļūt šai lapai. Ātrās piezīmes darbojas tikai parastajās tīmekļa lapās (piemēram, http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Ierakstiet savu piezīmi šeit…"
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Līmlapiņa"
+  },
+  "noteTextAriaLabel": {
+    "message": "Piezīmes teksts"
+  },
+  "dragToMoveTitle": {
+    "message": "Velciet, lai pārvietotu"
+  },
+  "deleteNoteTitle": {
+    "message": "Dzēst piezīmi"
+  },
+  "resizeNoteTitle": {
+    "message": "Mainīt piezīmes izmērus"
+  }
+}

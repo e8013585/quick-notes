@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "ملاحظات سريعة - ملاحظات لاصقة على الصفحات"
+  },
+  "appDesc": {
+    "message": "قم بإنشاء الملاحظات اللاصقة ونقلها والاحتفاظ بها على أي صفحة ويب. يتم حفظ الملاحظات لكل عنوان URL وتظهر مرة أخرى تلقائيًا."
+  },
+  "appTitle": {
+    "message": "ملاحظات سريعة"
+  },
+  "notesOnThisPage": {
+    "message": "ملاحظات على هذه الصفحة"
+  },
+  "newStickyNote": {
+    "message": "ملاحظة لاصقة جديدة"
+  },
+  "showNotes": {
+    "message": "إظهار الملاحظات"
+  },
+  "toggleAllNotes": {
+    "message": "تبديل كافة الملاحظات في هذه الصفحة"
+  },
+  "quickColorForNext": {
+    "message": "لون سريع للملاحظة التالية"
+  },
+  "colorYellow": {
+    "message": "أصفر"
+  },
+  "colorBlue": {
+    "message": "أزرق"
+  },
+  "colorGreen": {
+    "message": "أخضر"
+  },
+  "colorPink": {
+    "message": "لون القرنفل"
+  },
+  "colorPurple": {
+    "message": "أرجواني"
+  },
+  "footerText": {
+    "message": "يتم حفظ الملاحظات لكل عنوان URL للصفحة"
+  },
+  "errorRestricted": {
+    "message": "لا يمكن الوصول إلى هذه الصفحة. تعمل الملاحظات السريعة فقط على صفحات الويب العادية (مثل http://، https://)."
+  },
+  "notePlaceholder": {
+    "message": "اكتب ملاحظتك هنا..."
+  },
+  "stickyNoteAriaLabel": {
+    "message": "ملاحظة لاصقة"
+  },
+  "noteTextAriaLabel": {
+    "message": "ملاحظة النص"
+  },
+  "dragToMoveTitle": {
+    "message": "اسحب للتحرك"
+  },
+  "deleteNoteTitle": {
+    "message": "حذف الملاحظة"
+  },
+  "resizeNoteTitle": {
+    "message": "تغيير حجم الملاحظة"
+  }
+}

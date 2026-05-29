@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Nota Pantas — Nota Melekit pada Halaman"
+  },
+  "appDesc": {
+    "message": "Buat, alihkan dan kekalkan nota melekit pada mana-mana halaman web. Nota disimpan setiap URL dan muncul semula secara automatik."
+  },
+  "appTitle": {
+    "message": "Nota Pantas"
+  },
+  "notesOnThisPage": {
+    "message": "Nota di halaman ini"
+  },
+  "newStickyNote": {
+    "message": "Sticky Note Baharu"
+  },
+  "showNotes": {
+    "message": "Tunjukkan Nota"
+  },
+  "toggleAllNotes": {
+    "message": "Togol semua nota pada halaman ini"
+  },
+  "quickColorForNext": {
+    "message": "Warna cepat untuk nota seterusnya"
+  },
+  "colorYellow": {
+    "message": "kuning"
+  },
+  "colorBlue": {
+    "message": "Biru"
+  },
+  "colorGreen": {
+    "message": "hijau"
+  },
+  "colorPink": {
+    "message": "Merah jambu"
+  },
+  "colorPurple": {
+    "message": "Ungu"
+  },
+  "footerText": {
+    "message": "Nota disimpan setiap URL halaman"
+  },
+  "errorRestricted": {
+    "message": "Tidak boleh mengakses halaman ini. Nota Pantas hanya berfungsi pada halaman web biasa (cth. http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Taip nota anda di sini…"
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Nota lekat"
+  },
+  "noteTextAriaLabel": {
+    "message": "Nota teks"
+  },
+  "dragToMoveTitle": {
+    "message": "Seret untuk bergerak"
+  },
+  "deleteNoteTitle": {
+    "message": "Padam nota"
+  },
+  "resizeNoteTitle": {
+    "message": "Ubah saiz nota"
+  }
+}

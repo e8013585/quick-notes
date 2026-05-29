@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "দ্রুত নোট - পৃষ্ঠাগুলিতে স্টিকি নোট"
+  },
+  "appDesc": {
+    "message": "যেকোনো ওয়েবপেজে স্টিকি নোট তৈরি করুন, সরান এবং চালিয়ে যান। নোট প্রতি URL সংরক্ষণ করা হয় এবং স্বয়ংক্রিয়ভাবে পুনরায় উপস্থিত হয়."
+  },
+  "appTitle": {
+    "message": "দ্রুত নোট"
+  },
+  "notesOnThisPage": {
+    "message": "এই পৃষ্ঠায় নোট"
+  },
+  "newStickyNote": {
+    "message": "নতুন স্টিকি নোট"
+  },
+  "showNotes": {
+    "message": "নোট দেখান"
+  },
+  "toggleAllNotes": {
+    "message": "এই পৃষ্ঠায় সমস্ত নোট টগল করুন"
+  },
+  "quickColorForNext": {
+    "message": "পরবর্তী নোটের জন্য দ্রুত রঙ"
+  },
+  "colorYellow": {
+    "message": "হলুদ"
+  },
+  "colorBlue": {
+    "message": "নীল"
+  },
+  "colorGreen": {
+    "message": "সবুজ"
+  },
+  "colorPink": {
+    "message": "গোলাপী"
+  },
+  "colorPurple": {
+    "message": "বেগুনি"
+  },
+  "footerText": {
+    "message": "নোট প্রতি পৃষ্ঠা URL সংরক্ষণ করা হয়"
+  },
+  "errorRestricted": {
+    "message": "এই পৃষ্ঠা অ্যাক্সেস করতে পারবেন না. Quick Notes শুধুমাত্র নিয়মিত ওয়েব পৃষ্ঠাগুলিতে কাজ করে (যেমন http://, https://)।"
+  },
+  "notePlaceholder": {
+    "message": "এখানে আপনার নোট টাইপ করুন..."
+  },
+  "stickyNoteAriaLabel": {
+    "message": "স্টিকি নোট"
+  },
+  "noteTextAriaLabel": {
+    "message": "টেক্সট নোট করুন"
+  },
+  "dragToMoveTitle": {
+    "message": "সরাতে টেনে আনুন"
+  },
+  "deleteNoteTitle": {
+    "message": "নোট মুছুন"
+  },
+  "resizeNoteTitle": {
+    "message": "নোটের আকার পরিবর্তন করুন"
+  }
+}

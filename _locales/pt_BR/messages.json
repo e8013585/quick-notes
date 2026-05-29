@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Notas rápidas – notas adesivas nas páginas"
+  },
+  "appDesc": {
+    "message": "Crie, mova e mantenha notas adesivas em qualquer página da web. As notas são salvas por URL e reaparecem automaticamente."
+  },
+  "appTitle": {
+    "message": "Notas rápidas"
+  },
+  "notesOnThisPage": {
+    "message": "Notas nesta página"
+  },
+  "newStickyNote": {
+    "message": "Nova nota adesiva"
+  },
+  "showNotes": {
+    "message": "Mostrar notas"
+  },
+  "toggleAllNotes": {
+    "message": "Alternar todas as notas nesta página"
+  },
+  "quickColorForNext": {
+    "message": "Cor rápida para a próxima nota"
+  },
+  "colorYellow": {
+    "message": "Amarelo"
+  },
+  "colorBlue": {
+    "message": "Azul"
+  },
+  "colorGreen": {
+    "message": "Verde"
+  },
+  "colorPink": {
+    "message": "Rosa"
+  },
+  "colorPurple": {
+    "message": "Roxo"
+  },
+  "footerText": {
+    "message": "As notas são salvas por URL da página"
+  },
+  "errorRestricted": {
+    "message": "Não é possível acessar esta página. O Quick Notes funciona apenas em páginas da web normais (por exemplo, http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Digite sua nota aqui…"
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Nota adesiva"
+  },
+  "noteTextAriaLabel": {
+    "message": "Texto da nota"
+  },
+  "dragToMoveTitle": {
+    "message": "Arraste para mover"
+  },
+  "deleteNoteTitle": {
+    "message": "Excluir nota"
+  },
+  "resizeNoteTitle": {
+    "message": "Redimensionar nota"
+  }
+}

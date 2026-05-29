@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Rychlé poznámky — Rychlé poznámky na stránkách"
+  },
+  "appDesc": {
+    "message": "Vytvářejte, přesouvejte a udržujte rychlé poznámky na jakékoli webové stránce. Poznámky se ukládají na adresu URL a automaticky se znovu zobrazují."
+  },
+  "appTitle": {
+    "message": "Rychlé poznámky"
+  },
+  "notesOnThisPage": {
+    "message": "Poznámky na této stránce"
+  },
+  "newStickyNote": {
+    "message": "Nový Sticky Note"
+  },
+  "showNotes": {
+    "message": "Zobrazit poznámky"
+  },
+  "toggleAllNotes": {
+    "message": "Přepnout všechny poznámky na této stránce"
+  },
+  "quickColorForNext": {
+    "message": "Rychlá barva pro další poznámku"
+  },
+  "colorYellow": {
+    "message": "Žluť"
+  },
+  "colorBlue": {
+    "message": "Modrý"
+  },
+  "colorGreen": {
+    "message": "Zelený"
+  },
+  "colorPink": {
+    "message": "Růžový"
+  },
+  "colorPurple": {
+    "message": "Fialová"
+  },
+  "footerText": {
+    "message": "Poznámky se ukládají na adresu URL stránky"
+  },
+  "errorRestricted": {
+    "message": "Na tuto stránku nelze získat přístup. Rychlé poznámky fungují pouze na běžných webových stránkách (např. http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Sem napište svou poznámku…"
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Lepicí poznámka"
+  },
+  "noteTextAriaLabel": {
+    "message": "Text poznámky"
+  },
+  "dragToMoveTitle": {
+    "message": "Přetažením se přesunete"
+  },
+  "deleteNoteTitle": {
+    "message": "Smazat poznámku"
+  },
+  "resizeNoteTitle": {
+    "message": "Změnit velikost poznámky"
+  }
+}

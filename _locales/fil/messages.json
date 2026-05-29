@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Mga Mabilisang Tala — Malagkit na Tala sa Mga Pahina"
+  },
+  "appDesc": {
+    "message": "Lumikha, ilipat, at ipagpatuloy ang mga malagkit na tala sa anumang webpage. Ang mga tala ay nai-save sa bawat URL at awtomatikong muling lilitaw."
+  },
+  "appTitle": {
+    "message": "Mga Mabilisang Tala"
+  },
+  "notesOnThisPage": {
+    "message": "Mga tala sa pahinang ito"
+  },
+  "newStickyNote": {
+    "message": "Bagong Sticky Note"
+  },
+  "showNotes": {
+    "message": "Ipakita ang Mga Tala"
+  },
+  "toggleAllNotes": {
+    "message": "I-toggle ang lahat ng tala sa page na ito"
+  },
+  "quickColorForNext": {
+    "message": "Mabilis na kulay para sa susunod na tala"
+  },
+  "colorYellow": {
+    "message": "Dilaw"
+  },
+  "colorBlue": {
+    "message": "Asul"
+  },
+  "colorGreen": {
+    "message": "Berde"
+  },
+  "colorPink": {
+    "message": "Rosas"
+  },
+  "colorPurple": {
+    "message": "Lila"
+  },
+  "footerText": {
+    "message": "Ang mga tala ay nai-save sa bawat URL ng pahina"
+  },
+  "errorRestricted": {
+    "message": "Hindi ma-access ang page na ito. Gumagana lang ang Quick Notes sa mga regular na web page (hal. http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "I-type ang iyong tala dito..."
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Malagkit na tala"
+  },
+  "noteTextAriaLabel": {
+    "message": "Teksto ng tala"
+  },
+  "dragToMoveTitle": {
+    "message": "I-drag upang ilipat"
+  },
+  "deleteNoteTitle": {
+    "message": "Tanggalin ang tala"
+  },
+  "resizeNoteTitle": {
+    "message": "Baguhin ang laki ng tala"
+  }
+}

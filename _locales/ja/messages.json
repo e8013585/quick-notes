@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "クイックノート — ページ上の付箋"
+  },
+  "appDesc": {
+    "message": "任意の Web ページ上で付箋を作成、移動、保持します。メモは URL ごとに保存され、自動的に再表示されます。"
+  },
+  "appTitle": {
+    "message": "簡単なメモ"
+  },
+  "notesOnThisPage": {
+    "message": "このページに関する注意事項"
+  },
+  "newStickyNote": {
+    "message": "新しい付箋"
+  },
+  "showNotes": {
+    "message": "メモを表示"
+  },
+  "toggleAllNotes": {
+    "message": "このページのすべてのメモを切り替えます"
+  },
+  "quickColorForNext": {
+    "message": "次のノートのクイックカラー"
+  },
+  "colorYellow": {
+    "message": "黄色"
+  },
+  "colorBlue": {
+    "message": "青"
+  },
+  "colorGreen": {
+    "message": "緑"
+  },
+  "colorPink": {
+    "message": "ピンク"
+  },
+  "colorPurple": {
+    "message": "紫"
+  },
+  "footerText": {
+    "message": "メモはページ URL ごとに保存されます"
+  },
+  "errorRestricted": {
+    "message": "このページにアクセスできません。クイック ノートは通常の Web ページ (http://、https:// など) でのみ機能します。"
+  },
+  "notePlaceholder": {
+    "message": "ここにメモを入力してください…"
+  },
+  "stickyNoteAriaLabel": {
+    "message": "付箋"
+  },
+  "noteTextAriaLabel": {
+    "message": "注記のテキスト"
+  },
+  "dragToMoveTitle": {
+    "message": "ドラッグして移動します"
+  },
+  "deleteNoteTitle": {
+    "message": "メモの削除"
+  },
+  "resizeNoteTitle": {
+    "message": "メモのサイズを変更する"
+  }
+}

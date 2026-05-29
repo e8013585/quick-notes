@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Szybkie notatki — notatki samoprzylepne na stronach"
+  },
+  "appDesc": {
+    "message": "Twórz, przenoś i utrwalaj notatki na dowolnej stronie internetowej. Notatki są zapisywane według adresu URL i pojawiają się automatycznie."
+  },
+  "appTitle": {
+    "message": "Szybkie notatki"
+  },
+  "notesOnThisPage": {
+    "message": "Notatki na tej stronie"
+  },
+  "newStickyNote": {
+    "message": "Nowa karteczka samoprzylepna"
+  },
+  "showNotes": {
+    "message": "Pokaż notatki"
+  },
+  "toggleAllNotes": {
+    "message": "Przełącz wszystkie notatki na tej stronie"
+  },
+  "quickColorForNext": {
+    "message": "Szybki kolor dla następnej notatki"
+  },
+  "colorYellow": {
+    "message": "Żółty"
+  },
+  "colorBlue": {
+    "message": "Niebieski"
+  },
+  "colorGreen": {
+    "message": "Zielony"
+  },
+  "colorPink": {
+    "message": "Różowy"
+  },
+  "colorPurple": {
+    "message": "Fioletowy"
+  },
+  "footerText": {
+    "message": "Notatki są zapisywane według adresu URL strony"
+  },
+  "errorRestricted": {
+    "message": "Nie można uzyskać dostępu do tej strony. Szybkie notatki działają tylko na zwykłych stronach internetowych (np. http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Wpisz tutaj swoją notatkę…"
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Przyklejona notatka"
+  },
+  "noteTextAriaLabel": {
+    "message": "Uwaga tekst"
+  },
+  "dragToMoveTitle": {
+    "message": "Przeciągnij, aby przenieść"
+  },
+  "deleteNoteTitle": {
+    "message": "Usuń notatkę"
+  },
+  "resizeNoteTitle": {
+    "message": "Zmień rozmiar notatki"
+  }
+}

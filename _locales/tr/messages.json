@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Hızlı Notlar — Sayfalara Yapışkan Notlar"
+  },
+  "appDesc": {
+    "message": "Herhangi bir web sayfasında yapışkan notlar oluşturun, taşıyın ve kalıcı hale getirin. Notlar URL başına kaydedilir ve otomatik olarak yeniden görünür."
+  },
+  "appTitle": {
+    "message": "Hızlı Notlar"
+  },
+  "notesOnThisPage": {
+    "message": "Bu sayfadaki notlar"
+  },
+  "newStickyNote": {
+    "message": "Yeni Yapışkan Not"
+  },
+  "showNotes": {
+    "message": "Notları Göster"
+  },
+  "toggleAllNotes": {
+    "message": "Bu sayfadaki tüm notları aç/kapat"
+  },
+  "quickColorForNext": {
+    "message": "Bir sonraki not için hızlı renk"
+  },
+  "colorYellow": {
+    "message": "Sarı"
+  },
+  "colorBlue": {
+    "message": "Mavi"
+  },
+  "colorGreen": {
+    "message": "Yeşil"
+  },
+  "colorPink": {
+    "message": "Pembe"
+  },
+  "colorPurple": {
+    "message": "Mor"
+  },
+  "footerText": {
+    "message": "Notlar sayfa URL'si başına kaydedilir"
+  },
+  "errorRestricted": {
+    "message": "Bu sayfaya erişilemiyor. Hızlı Notlar yalnızca normal web sayfalarında çalışır (ör. http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Notunuzu buraya yazın…"
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Yapışkan not"
+  },
+  "noteTextAriaLabel": {
+    "message": "Not metni"
+  },
+  "dragToMoveTitle": {
+    "message": "Taşımak için sürükleyin"
+  },
+  "deleteNoteTitle": {
+    "message": "Notu sil"
+  },
+  "resizeNoteTitle": {
+    "message": "Notu yeniden boyutlandır"
+  }
+}

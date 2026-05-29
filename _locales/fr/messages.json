@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Notes rapides – Notes autocollantes sur les pages"
+  },
+  "appDesc": {
+    "message": "Créez, déplacez et conservez des notes autocollantes sur n'importe quelle page Web. Les notes sont enregistrées par URL et réapparaissent automatiquement."
+  },
+  "appTitle": {
+    "message": "Notes rapides"
+  },
+  "notesOnThisPage": {
+    "message": "Remarques sur cette page"
+  },
+  "newStickyNote": {
+    "message": "Nouveau pense-bête"
+  },
+  "showNotes": {
+    "message": "Afficher les notes"
+  },
+  "toggleAllNotes": {
+    "message": "Basculer toutes les notes sur cette page"
+  },
+  "quickColorForNext": {
+    "message": "Couleur rapide pour la prochaine note"
+  },
+  "colorYellow": {
+    "message": "Jaune"
+  },
+  "colorBlue": {
+    "message": "Bleu"
+  },
+  "colorGreen": {
+    "message": "Vert"
+  },
+  "colorPink": {
+    "message": "Rose"
+  },
+  "colorPurple": {
+    "message": "Violet"
+  },
+  "footerText": {
+    "message": "Les notes sont enregistrées par URL de page"
+  },
+  "errorRestricted": {
+    "message": "Impossible d'accéder à cette page. Quick Notes ne fonctionne que sur les pages Web classiques (par exemple http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Tapez votre note ici…"
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Pense-bête"
+  },
+  "noteTextAriaLabel": {
+    "message": "Texte de la note"
+  },
+  "dragToMoveTitle": {
+    "message": "Faites glisser pour déplacer"
+  },
+  "deleteNoteTitle": {
+    "message": "Supprimer la note"
+  },
+  "resizeNoteTitle": {
+    "message": "Redimensionner la note"
+  }
+}

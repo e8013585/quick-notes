@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Брзе белешке — Лепљиве белешке на страницама"
+  },
+  "appDesc": {
+    "message": "Креирајте, преместите и сачувајте лепљиве белешке на било којој веб страници. Белешке се чувају по УРЛ-у и аутоматски се поново појављују."
+  },
+  "appTitle": {
+    "message": "Брзе белешке"
+  },
+  "notesOnThisPage": {
+    "message": "Напомене на овој страници"
+  },
+  "newStickyNote": {
+    "message": "Нова лепљива белешка"
+  },
+  "showNotes": {
+    "message": "Прикажи белешке"
+  },
+  "toggleAllNotes": {
+    "message": "Укључите све белешке на овој страници"
+  },
+  "quickColorForNext": {
+    "message": "Брза боја за следећу белешку"
+  },
+  "colorYellow": {
+    "message": "Жута"
+  },
+  "colorBlue": {
+    "message": "Плава"
+  },
+  "colorGreen": {
+    "message": "Зелена"
+  },
+  "colorPink": {
+    "message": "Пинк"
+  },
+  "colorPurple": {
+    "message": "Љубичаста"
+  },
+  "footerText": {
+    "message": "Белешке се чувају по УРЛ-у странице"
+  },
+  "errorRestricted": {
+    "message": "Није могуће приступити овој страници. Брзе белешке раде само на редовним веб страницама (нпр. хттп://, хттпс://)."
+  },
+  "notePlaceholder": {
+    "message": "Унесите своју белешку овде…"
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Лепљива белешка"
+  },
+  "noteTextAriaLabel": {
+    "message": "Текст белешке"
+  },
+  "dragToMoveTitle": {
+    "message": "Превуците да бисте померили"
+  },
+  "deleteNoteTitle": {
+    "message": "Избриши белешку"
+  },
+  "resizeNoteTitle": {
+    "message": "Промените величину белешке"
+  }
+}

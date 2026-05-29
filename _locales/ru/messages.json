@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Быстрые заметки — стикеры на страницах"
+  },
+  "appDesc": {
+    "message": "Создавайте, перемещайте и сохраняйте заметки на любой веб-странице. Заметки сохраняются для каждого URL-адреса и появляются автоматически."
+  },
+  "appTitle": {
+    "message": "Быстрые заметки"
+  },
+  "notesOnThisPage": {
+    "message": "Примечания на этой странице"
+  },
+  "newStickyNote": {
+    "message": "Новая заметка"
+  },
+  "showNotes": {
+    "message": "Показать заметки"
+  },
+  "toggleAllNotes": {
+    "message": "Переключить все заметки на этой странице"
+  },
+  "quickColorForNext": {
+    "message": "Быстрый цвет для следующей заметки"
+  },
+  "colorYellow": {
+    "message": "Желтый"
+  },
+  "colorBlue": {
+    "message": "Синий"
+  },
+  "colorGreen": {
+    "message": "Зеленый"
+  },
+  "colorPink": {
+    "message": "Розовый"
+  },
+  "colorPurple": {
+    "message": "Фиолетовый"
+  },
+  "footerText": {
+    "message": "Примечания сохраняются для каждого URL-адреса страницы."
+  },
+  "errorRestricted": {
+    "message": "Невозможно получить доступ к этой странице. Быстрые заметки работают только на обычных веб-страницах (например, http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Введите заметку здесь…"
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Заметка"
+  },
+  "noteTextAriaLabel": {
+    "message": "Текст заметки"
+  },
+  "dragToMoveTitle": {
+    "message": "Перетащите, чтобы переместить"
+  },
+  "deleteNoteTitle": {
+    "message": "Удалить заметку"
+  },
+  "resizeNoteTitle": {
+    "message": "Изменение размера заметки"
+  }
+}

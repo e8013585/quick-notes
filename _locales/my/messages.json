@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "အမြန်မှတ်စုများ — စာမျက်နှာများပေါ်ရှိ Sticky Notes"
+  },
+  "appDesc": {
+    "message": "ဝဘ်စာမျက်နှာတိုင်းတွင် ကပ်စေးကပ်မှတ်စုများကို ဖန်တီး၊ ရွှေ့ကာ ဆက်လက်လုပ်ဆောင်ပါ။ မှတ်စုများကို URL အလိုက် သိမ်းဆည်းပြီး အလိုအလျောက် ပြန်ပေါ်လာသည်။"
+  },
+  "appTitle": {
+    "message": "အမြန်မှတ်စုများ"
+  },
+  "notesOnThisPage": {
+    "message": "ဤစာမျက်နှာတွင်မှတ်စုများ"
+  },
+  "newStickyNote": {
+    "message": "Sticky Note အသစ်"
+  },
+  "showNotes": {
+    "message": "မှတ်စုများပြပါ။"
+  },
+  "toggleAllNotes": {
+    "message": "ဤစာမျက်နှာရှိ မှတ်စုများအားလုံးကို ခလုတ်နှိပ်ပါ။"
+  },
+  "quickColorForNext": {
+    "message": "နောက်မှတ်စုအတွက် အမြန်အရောင်"
+  },
+  "colorYellow": {
+    "message": "အဝါရောင်"
+  },
+  "colorBlue": {
+    "message": "အပြာ"
+  },
+  "colorGreen": {
+    "message": "အစိမ်းရောင်"
+  },
+  "colorPink": {
+    "message": "ပန်းရောင်"
+  },
+  "colorPurple": {
+    "message": "ခရမ်းရောင်"
+  },
+  "footerText": {
+    "message": "စာမျက်နှာ URL အလိုက် မှတ်စုများကို သိမ်းဆည်းထားသည်။"
+  },
+  "errorRestricted": {
+    "message": "ဤစာမျက်နှာကို ဝင်ရောက်၍မရပါ။ Quick Notes သည် ပုံမှန်ဝဘ်စာမျက်နှာများ (ဥပမာ http://၊ https://) တွင်သာ အလုပ်လုပ်သည်။"
+  },
+  "notePlaceholder": {
+    "message": "သင့်မှတ်စုကို ဤနေရာတွင် ရိုက်ထည့်ပါ..."
+  },
+  "stickyNoteAriaLabel": {
+    "message": "ကပ်စေးနဲ"
+  },
+  "noteTextAriaLabel": {
+    "message": "စာသားမှတ်ထားပါ။"
+  },
+  "dragToMoveTitle": {
+    "message": "ရွှေ့ရန် ဖိဆွဲပါ။"
+  },
+  "deleteNoteTitle": {
+    "message": "မှတ်စုကိုဖျက်ပါ။"
+  },
+  "resizeNoteTitle": {
+    "message": "အရွယ်အစား မှတ်ချက်"
+  }
+}

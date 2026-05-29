@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "快速笔记 - 页面上的便签"
+  },
+  "appDesc": {
+    "message": "在任何网页上创建、移动和保留便笺。注释按 URL 保存并自动重新显示。"
+  },
+  "appTitle": {
+    "message": "快速笔记"
+  },
+  "notesOnThisPage": {
+    "message": "本页注释"
+  },
+  "newStickyNote": {
+    "message": "新便签"
+  },
+  "showNotes": {
+    "message": "显示注释"
+  },
+  "toggleAllNotes": {
+    "message": "切换此页面上的所有注释"
+  },
+  "quickColorForNext": {
+    "message": "为下一个笔记快速着色"
+  },
+  "colorYellow": {
+    "message": "黄色的"
+  },
+  "colorBlue": {
+    "message": "蓝色的"
+  },
+  "colorGreen": {
+    "message": "绿色的"
+  },
+  "colorPink": {
+    "message": "粉色的"
+  },
+  "colorPurple": {
+    "message": "紫色的"
+  },
+  "footerText": {
+    "message": "备注按页面 URL 保存"
+  },
+  "errorRestricted": {
+    "message": "无法访问该页面。快速笔记仅适用于常规网页（例如 http://、https://）。"
+  },
+  "notePlaceholder": {
+    "message": "在此输入您的注释..."
+  },
+  "stickyNoteAriaLabel": {
+    "message": "便利贴"
+  },
+  "noteTextAriaLabel": {
+    "message": "备注文字"
+  },
+  "dragToMoveTitle": {
+    "message": "拖动移动"
+  },
+  "deleteNoteTitle": {
+    "message": "删除注释"
+  },
+  "resizeNoteTitle": {
+    "message": "调整注释大小"
+  }
+}

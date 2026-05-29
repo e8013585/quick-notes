@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Kiirmärkmed – kleepuvad märkmed lehtedele"
+  },
+  "appDesc": {
+    "message": "Looge, teisaldage ja säilitage kleepmärkmeid mis tahes veebilehel. Märkmed salvestatakse iga URL-i kohta ja need ilmuvad automaatselt uuesti."
+  },
+  "appTitle": {
+    "message": "Kiired märkmed"
+  },
+  "notesOnThisPage": {
+    "message": "Märkused sellel lehel"
+  },
+  "newStickyNote": {
+    "message": "Uus kleepmärk"
+  },
+  "showNotes": {
+    "message": "Näita märkmeid"
+  },
+  "toggleAllNotes": {
+    "message": "Lülitage kõik sellel lehel olevad märkmed sisse"
+  },
+  "quickColorForNext": {
+    "message": "Kiire värv järgmise märkme jaoks"
+  },
+  "colorYellow": {
+    "message": "Kollane"
+  },
+  "colorBlue": {
+    "message": "Sinine"
+  },
+  "colorGreen": {
+    "message": "Roheline"
+  },
+  "colorPink": {
+    "message": "Roosa"
+  },
+  "colorPurple": {
+    "message": "Lilla"
+  },
+  "footerText": {
+    "message": "Märkused salvestatakse lehe URL-i kohta"
+  },
+  "errorRestricted": {
+    "message": "Sellele lehele ei pääse juurde. Quick Notes töötab ainult tavalistel veebilehtedel (nt http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Sisesta oma märkus siia…"
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Kleepmärkus"
+  },
+  "noteTextAriaLabel": {
+    "message": "Märkuse tekst"
+  },
+  "dragToMoveTitle": {
+    "message": "Liigutamiseks lohistage"
+  },
+  "deleteNoteTitle": {
+    "message": "Kustuta märge"
+  },
+  "resizeNoteTitle": {
+    "message": "Muuda märkme suurust"
+  }
+}

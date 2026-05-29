@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "ઝડપી નોંધો - પૃષ્ઠો પર સ્ટીકી નોંધો"
+  },
+  "appDesc": {
+    "message": "કોઈપણ વેબપેજ પર સ્ટીકી નોટ્સ બનાવો, ખસેડો અને ચાલુ રાખો. નોંધ URL દીઠ સાચવવામાં આવે છે અને આપમેળે ફરીથી દેખાય છે."
+  },
+  "appTitle": {
+    "message": "ઝડપી નોંધો"
+  },
+  "notesOnThisPage": {
+    "message": "આ પૃષ્ઠ પર નોંધો"
+  },
+  "newStickyNote": {
+    "message": "નવી સ્ટીકી નોટ"
+  },
+  "showNotes": {
+    "message": "નોંધો બતાવો"
+  },
+  "toggleAllNotes": {
+    "message": "આ પૃષ્ઠ પરની બધી નોંધોને ટૉગલ કરો"
+  },
+  "quickColorForNext": {
+    "message": "આગલી નોંધ માટે ઝડપી રંગ"
+  },
+  "colorYellow": {
+    "message": "પીળો"
+  },
+  "colorBlue": {
+    "message": "વાદળી"
+  },
+  "colorGreen": {
+    "message": "લીલા"
+  },
+  "colorPink": {
+    "message": "ગુલાબી"
+  },
+  "colorPurple": {
+    "message": "જાંબલી"
+  },
+  "footerText": {
+    "message": "નોંધો પૃષ્ઠ URL દીઠ સાચવવામાં આવે છે"
+  },
+  "errorRestricted": {
+    "message": "આ પૃષ્ઠને ઍક્સેસ કરી શકાતું નથી. ઝડપી નોંધો ફક્ત નિયમિત વેબ પૃષ્ઠો પર જ કાર્ય કરે છે (દા.ત. http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "તમારી નોંધ અહીં લખો..."
+  },
+  "stickyNoteAriaLabel": {
+    "message": "સ્ટીકી નોંધ"
+  },
+  "noteTextAriaLabel": {
+    "message": "નોંધ ટેક્સ્ટ"
+  },
+  "dragToMoveTitle": {
+    "message": "ખસેડવા માટે ખેંચો"
+  },
+  "deleteNoteTitle": {
+    "message": "નોંધ કાઢી નાખો"
+  },
+  "resizeNoteTitle": {
+    "message": "નોંધનું કદ બદલો"
+  }
+}

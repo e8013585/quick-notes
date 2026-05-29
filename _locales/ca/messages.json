@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Notes ràpides — Notes adhesives a les pàgines"
+  },
+  "appDesc": {
+    "message": "Creeu, moveu i persistiu notes adhesives a qualsevol pàgina web. Les notes es guarden per URL i tornen a aparèixer automàticament."
+  },
+  "appTitle": {
+    "message": "Notes ràpides"
+  },
+  "notesOnThisPage": {
+    "message": "Notes en aquesta pàgina"
+  },
+  "newStickyNote": {
+    "message": "Nova nota adhesiva"
+  },
+  "showNotes": {
+    "message": "Mostra les notes"
+  },
+  "toggleAllNotes": {
+    "message": "Commuta totes les notes d'aquesta pàgina"
+  },
+  "quickColorForNext": {
+    "message": "Color ràpid per a la següent nota"
+  },
+  "colorYellow": {
+    "message": "groc"
+  },
+  "colorBlue": {
+    "message": "Blau"
+  },
+  "colorGreen": {
+    "message": "Verd"
+  },
+  "colorPink": {
+    "message": "Rosa"
+  },
+  "colorPurple": {
+    "message": "Lila"
+  },
+  "footerText": {
+    "message": "Les notes es desen per URL de pàgina"
+  },
+  "errorRestricted": {
+    "message": "No es pot accedir a aquesta pàgina. Quick Notes només funciona en pàgines web normals (p. ex. http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Escriu la teva nota aquí..."
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Nota adhesiva"
+  },
+  "noteTextAriaLabel": {
+    "message": "Text de nota"
+  },
+  "dragToMoveTitle": {
+    "message": "Arrossegueu per moure's"
+  },
+  "deleteNoteTitle": {
+    "message": "Suprimeix la nota"
+  },
+  "resizeNoteTitle": {
+    "message": "Canvia la mida de la nota"
+  }
+}

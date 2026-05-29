@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "ፈጣን ማስታወሻዎች - በገጾች ላይ ተለጣፊ ማስታወሻዎች"
+  },
+  "appDesc": {
+    "message": "በማንኛውም ድረ-ገጽ ላይ ተለጣፊ ማስታወሻዎችን ይፍጠሩ፣ ይውሰዱ እና ያቆዩ። ማስታወሻዎች በዩአርኤል ይቀመጣሉ እና እንደገና በራስ-ሰር ይታያሉ።"
+  },
+  "appTitle": {
+    "message": "ፈጣን ማስታወሻዎች"
+  },
+  "notesOnThisPage": {
+    "message": "በዚህ ገጽ ላይ ማስታወሻዎች"
+  },
+  "newStickyNote": {
+    "message": "አዲስ ተለጣፊ ማስታወሻ"
+  },
+  "showNotes": {
+    "message": "ማስታወሻዎችን አሳይ"
+  },
+  "toggleAllNotes": {
+    "message": "በዚህ ገጽ ላይ ያሉትን ሁሉንም ማስታወሻዎች ይቀያይሩ"
+  },
+  "quickColorForNext": {
+    "message": "ለቀጣይ ማስታወሻ ፈጣን ቀለም"
+  },
+  "colorYellow": {
+    "message": "ቢጫ"
+  },
+  "colorBlue": {
+    "message": "ሰማያዊ"
+  },
+  "colorGreen": {
+    "message": "አረንጓዴ"
+  },
+  "colorPink": {
+    "message": "ሮዝ"
+  },
+  "colorPurple": {
+    "message": "ሐምራዊ"
+  },
+  "footerText": {
+    "message": "ማስታወሻዎች በገጽ URL ይቀመጣሉ።"
+  },
+  "errorRestricted": {
+    "message": "ይህን ገጽ መድረስ አልተቻለም። ፈጣን ማስታወሻዎች በመደበኛ ድረ-ገጾች ላይ ብቻ ይሰራሉ ​​(ለምሳሌ http://፣ https://)።"
+  },
+  "notePlaceholder": {
+    "message": "ማስታወሻዎን እዚህ ይተይቡ…"
+  },
+  "stickyNoteAriaLabel": {
+    "message": "ተለጣፊ ማስታወሻ"
+  },
+  "noteTextAriaLabel": {
+    "message": "ማስታወሻ ጽሑፍ"
+  },
+  "dragToMoveTitle": {
+    "message": "ለመንቀሳቀስ ይጎትቱ"
+  },
+  "deleteNoteTitle": {
+    "message": "ማስታወሻ ሰርዝ"
+  },
+  "resizeNoteTitle": {
+    "message": "ማስታወሻ ቀይር"
+  }
+}

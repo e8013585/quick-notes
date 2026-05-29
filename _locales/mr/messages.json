@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "द्रुत नोट्स - पृष्ठांवर चिकट नोट्स"
+  },
+  "appDesc": {
+    "message": "कोणत्याही वेबपृष्ठावर चिकट नोट्स तयार करा, हलवा आणि टिकून राहा. टिपा प्रति URL जतन केल्या जातात आणि आपोआप पुन्हा दिसतात."
+  },
+  "appTitle": {
+    "message": "द्रुत नोट्स"
+  },
+  "notesOnThisPage": {
+    "message": "या पृष्ठावरील टिपा"
+  },
+  "newStickyNote": {
+    "message": "नवीन स्टिकी नोट"
+  },
+  "showNotes": {
+    "message": "नोट्स दाखवा"
+  },
+  "toggleAllNotes": {
+    "message": "या पृष्ठावरील सर्व टिपा टॉगल करा"
+  },
+  "quickColorForNext": {
+    "message": "पुढील नोटसाठी द्रुत रंग"
+  },
+  "colorYellow": {
+    "message": "पिवळा"
+  },
+  "colorBlue": {
+    "message": "निळा"
+  },
+  "colorGreen": {
+    "message": "हिरवा"
+  },
+  "colorPink": {
+    "message": "गुलाबी"
+  },
+  "colorPurple": {
+    "message": "जांभळा"
+  },
+  "footerText": {
+    "message": "टिपा प्रति पृष्ठ URL जतन केल्या जातात"
+  },
+  "errorRestricted": {
+    "message": "या पृष्ठावर प्रवेश करू शकत नाही. क्विक नोट्स फक्त नियमित वेब पेजवर काम करतात (उदा. http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "तुमची टीप येथे टाइप करा..."
+  },
+  "stickyNoteAriaLabel": {
+    "message": "चिकट नोट"
+  },
+  "noteTextAriaLabel": {
+    "message": "टीप मजकूर"
+  },
+  "dragToMoveTitle": {
+    "message": "हलविण्यासाठी ड्रॅग करा"
+  },
+  "deleteNoteTitle": {
+    "message": "टीप हटवा"
+  },
+  "resizeNoteTitle": {
+    "message": "नोटचा आकार बदला"
+  }
+}

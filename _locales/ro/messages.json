@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "Note rapide — Note lipicioase pe pagini"
+  },
+  "appDesc": {
+    "message": "Creați, mutați și persistați note lipicioase pe orice pagină web. Notele sunt salvate pe URL și reapar automat."
+  },
+  "appTitle": {
+    "message": "Note rapide"
+  },
+  "notesOnThisPage": {
+    "message": "Note pe această pagină"
+  },
+  "newStickyNote": {
+    "message": "Notă lipicioasă nouă"
+  },
+  "showNotes": {
+    "message": "Afișați note"
+  },
+  "toggleAllNotes": {
+    "message": "Comutați toate notele de pe această pagină"
+  },
+  "quickColorForNext": {
+    "message": "Culoare rapidă pentru următoarea notă"
+  },
+  "colorYellow": {
+    "message": "Galben"
+  },
+  "colorBlue": {
+    "message": "Albastru"
+  },
+  "colorGreen": {
+    "message": "Verde"
+  },
+  "colorPink": {
+    "message": "Roz"
+  },
+  "colorPurple": {
+    "message": "Violet"
+  },
+  "footerText": {
+    "message": "Notele sunt salvate pentru fiecare pagină URL"
+  },
+  "errorRestricted": {
+    "message": "Nu se poate accesa această pagină. Quick Notes funcționează numai pe pagini web obișnuite (de exemplu, http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "Introduceți nota aici..."
+  },
+  "stickyNoteAriaLabel": {
+    "message": "Notă lipicioasă"
+  },
+  "noteTextAriaLabel": {
+    "message": "Notă text"
+  },
+  "dragToMoveTitle": {
+    "message": "Trageți pentru a muta"
+  },
+  "deleteNoteTitle": {
+    "message": "Ștergeți nota"
+  },
+  "resizeNoteTitle": {
+    "message": "Redimensionați nota"
+  }
+}

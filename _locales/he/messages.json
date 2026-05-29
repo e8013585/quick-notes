@@ -1,0 +1,65 @@
+{
+  "appName": {
+    "message": "הערות מהירות - הערות דביקות בדפים"
+  },
+  "appDesc": {
+    "message": "צור, העבר והמשך פתקים דביקים בכל דף אינטרנט. הערות נשמרות לכל כתובת אתר ומופיעות שוב באופן אוטומטי."
+  },
+  "appTitle": {
+    "message": "הערות מהירות"
+  },
+  "notesOnThisPage": {
+    "message": "הערות בעמוד זה"
+  },
+  "newStickyNote": {
+    "message": "פתק דבק חדש"
+  },
+  "showNotes": {
+    "message": "הצג הערות"
+  },
+  "toggleAllNotes": {
+    "message": "החלף את כל ההערות בדף זה"
+  },
+  "quickColorForNext": {
+    "message": "צבע מהיר להערה הבאה"
+  },
+  "colorYellow": {
+    "message": "צָהוֹב"
+  },
+  "colorBlue": {
+    "message": "כְּחוֹל"
+  },
+  "colorGreen": {
+    "message": "יָרוֹק"
+  },
+  "colorPink": {
+    "message": "וָרוֹד"
+  },
+  "colorPurple": {
+    "message": "סָגוֹל"
+  },
+  "footerText": {
+    "message": "הערות נשמרות לכל כתובת אתר של עמוד"
+  },
+  "errorRestricted": {
+    "message": "לא ניתן לגשת לדף זה. Quick Notes פועל רק בדפי אינטרנט רגילים (למשל http://, https://)."
+  },
+  "notePlaceholder": {
+    "message": "הקלד את ההערה שלך כאן..."
+  },
+  "stickyNoteAriaLabel": {
+    "message": "פתק דביק"
+  },
+  "noteTextAriaLabel": {
+    "message": "הערה טקסט"
+  },
+  "dragToMoveTitle": {
+    "message": "גרור כדי לזוז"
+  },
+  "deleteNoteTitle": {
+    "message": "מחק הערה"
+  },
+  "resizeNoteTitle": {
+    "message": "שנה את גודל הערה"
+  }
+}
